@@ -1,0 +1,3053 @@
+page,chunk_id,text,label,bootstrap_score
+1,1_1,"*OFFICIAL USE ONLY  
+ 
+  
+ICS202 3-IND  
+August  2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sovereign -backed Financing  
+ 
+Project Document  
+P000 795 Republic of India  
+Kochi Metro Rail Project - Phase II",Project Management,2
+2,2_1,"ii 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Currency Equivalents  
+(As of January 3 0, 2024 ) 
+ 
+Currency Unit – Indian Rupee (INR)  
+INR1.00 = USD0.012  
+USD1.00 = INR8 3.11 
+ 
+Borrower’s Fiscal year  
+April 1 – March 31  
+ 
+ 
+Abbreviations  
+AFC Automatic Fare Collection  
+AFD Agence Franç aise de Dé veloppement  
+AIIB Asian Infrastructure Investment Bank  
+ATM  Automated Teller Machine  
+ATO Automatic Train Operation  
+ATP Automatic Train Protection  
+ATS Automatic Train Supervision  
+BB Building Block  
+CAAA  Controller of Aid Accounts and Audit  
+CAG  Comptroller  and Auditor General  
+CAPEX  Capital Expenditures  
+CATC  Continuous Automatic Train Control  
+CBI Computer based Interlocking  
+CBTC  Communications -based Train Control  
+CCTV  Close Circuit Television   
+CESMP  Contractor’s Environmental and Social Management Plan  
+CO2 Carbon Dioxide  
+CPI Consumer Price Index  
+CRA  Climate Risk Assessment  
+CW Civil Works  
+DCF Discounted Cash Flow  
+DDC  De",Operations,6
+2,2_2,"ion   
+CESMP  Contractor’s Environmental and Social Management Plan  
+CO2 Carbon Dioxide  
+CPI Consumer Price Index  
+CRA  Climate Risk Assessment  
+CW Civil Works  
+DCF Discounted Cash Flow  
+DDC  Detailed Design Consultant  
+DED  Detailed Engineering Design  
+DP Director (Projects)  
+DPR  Detailed Project Report  
+E&M  Electrical and Mechanical  
+E&S Environmental And Social  
+ECap  Economic Capital  
+EIA Environmental Impact Assessment  
+EIRR  Economic Internal Rate of Return  
+EMP  Environmental Management Plan  
+ENPV  Economic Net Present Value  
+ERP Entity Relationship Diagram  
+ESEL  Environmental and Social Exclusion List  
+ESMP  Environmental and Social Management  Plan 
+ESP Environmental and Social Policy",Project Management,4
+3,3_1,"iii 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+ESS Environmental and Social Standards  
+EWS  Economically Weaker Sections  
+FAD Finance and Accounts Department  
+FDI Foreign Direct Investment  
+FIRR  Financial Internal Rate of Return  
+FM Financial Management  
+FNPV  Financial Net Present Value  
+FRP Fiber Reinforced Plastic  
+FS Feasibility Study  
+GBV  Gender -based Violence  
+GC General Consultant  
+GDI Gender Development Index  
+GDP  Gross Domestic Product  
+GESI  Gender Equality and Social Inclusion  
+GHG  Greenhouse Gas  
+GII Gender Inequality Index  
+GOA  Grade of Automation  
+GOI Government of India  
+GOK  Government of Kerala  
+GPN  General Procurement Notice  
+GPS  Global Positioning System  
+GRM  Grievance Redress Mechanism  
+HH Head Hardened  
+ICAI Institute of Chartered Accountants of India  
+IDC Interest During Construction  
+IFI International Financial Institution  
+IGBC  Indian Green Building Council  
+IMF International Monetary Fund  
+IND AS  Indi",Information Technology,7
+3,3_2,"te of Chartered Accountants of India  
+IDC Interest During Construction  
+IFI International Financial Institution  
+IGBC  Indian Green Building Council  
+IMF International Monetary Fund  
+IND AS  Indian Accounting Standards  
+INR Indian Rupee  
+IOCT  international open competitive tendering  
+IP Indigenous People  and Internet Protocol  
+IPT Intermediate Public Transport  
+IR Intermediate Results  
+IT Information Technology  
+JICA  Japan International Cooperation Agency  
+JLN Jawaharlal  Nehru  
+KfW Kreditanstalt fü r Wiederaufbau  
+KMRL  Kochi Metro Rail Limited  
+K-RAIL  Kerala Rail Development Corporation Limited  
+KSRTC  Kerala State Road Transport Corporation  
+KYC Know Your Counterparty  
+LARR  Land Acquisition, Rehabilitation and Resettlement  
+LED Light Emitting Diode  
+LEG Legal Department  
+LGBTQI+  Lesbian, Gay, Bisexual, Transgender, Queer, and Intersexual  
+M&E  Monitoring and Evaluation  
+MDB  Multilateral Development Bank  
+MIS Management Information System",Information Technology,13
+4,4_1,"iv 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+MOF  Ministry of Finance   
+MOHUA  Ministry of Housing and Urban Affairs  
+MRT  Metro Rail Transit  
+NAV Noise and Vibration  
+NCCAP  National Climate Change Action Plan  
+NCT National Competitive Tendering  
+NDC  Nationally Determined Contributions  
+NMT  Non-motorized transport  
+O&M  Operation and Maintenance  
+ODA  Official Development Assistance  
+OFC  Optical Fiber Communication  
+OHS  Occupational Health and Safety  
+OPEX  Operational Expenditures  
+PA Paris Agreement  
+PAA Paris Agreement Alignment  
+PAP Project Affected People  
+PDS Project Delivery Strategy  
+PFS Project Financial Statements  
+PHPDT  Peak Hour Peak Direction Trips  
+PIM Project Implementation Manual  
+PIR Procurement Instructions for Recipients   
+PIU Project Implementing Unit  
+PP Procurement Plan  
+PPM  Project -affected People’s Mechanism  
+PPP Public Private Partnership  
+PPQ  Project Prioritization and Quality  
+PT Project Team  
+PWD  Pe",Project Management,9
+4,4_2," 
+PIU Project Implementing Unit  
+PP Procurement Plan  
+PPM  Project -affected People’s Mechanism  
+PPP Public Private Partnership  
+PPQ  Project Prioritization and Quality  
+PT Project Team  
+PWD  Persons with Disabilities  and Public Works Department  
+R&R  Rehabilitation and Resettlement  
+RBI Reserve Bank of India  
+RCP  Representative Concentration Pathway  
+RESCO  Renewable Energy Service Company  
+RMF  Results Monitoring Framework  
+RORO  Roll-on/roll -off  
+ROW  Right -of-Way 
+RP Resettlement Plan  
+RS&T  Railway Systems and Trains  
+SAP System Applications and Products in Data Processing  
+SAs Standards on Auditing  
+SCADA  Supervisory Control and Data Acquisition  
+SDDR  Social Due Diligence Report  
+SEAH  Sexual Exploitation, Abuse and Harassment  
+SEZ Special Economic Zone  
+SIA Social Impact Assessment  
+SPB Strategy, Policy, and Budget  
+TETRA  Terrestrial Trunked Radio  
+UN United Nations  
+UNDP  United Nations Development Program  
+UNFCCC  United Nations Framework Conve",Information Technology,16
+4,4_3,"A Social Impact Assessment  
+SPB Strategy, Policy, and Budget  
+TETRA  Terrestrial Trunked Radio  
+UN United Nations  
+UNDP  United Nations Development Program  
+UNFCCC  United Nations Framework Convention on Climate Change",Information Technology,3
+5,5_1,"v 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+USD  United States Dollar  
+VOC  Vehicle Operating Cost  
+WEO  World Economic Outlook",Finance,1
+6,6_1,"1 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+CONTENTS  
+1. SUMMARY SHEET  ................................ ................................ ................................  2 
+2. CONTEXT  ................................ ................................ ................................ ..............  4 
+3. PROJECT DESCRIPTION  ................................ ................................ .....................  7 
+A. Project Overview  ................................ ................................ .............................  7 
+B. Rationale for AIIB Involvement  ................................ ................................ ........  9 
+C. Lessons Learnt and Reflected in the Project Design  ................................ ..... 11 
+D. Components  ................................ ................................ ................................ .. 12 
+E. Cost and Financing Plan  ................................ ................................ .......",Project Management,3
+6,6_2,"......................... ................................ ................................ .. 12 
+E. Cost and Financing Plan  ................................ ................................ ...............  12 
+F. Implementation Readiness and Arrangements  ................................ ..............  13 
+4. PROJECT ASSESSMENT  ................................ ................................ ...................  15 
+A. Technical  ................................ ................................ ................................ ....... 15 
+B. Economic and Financial Analysis  ................................ ................................ .. 19 
+C. Fiduciary and Governance  ................................ ................................ ............  20 
+D. Environmental and Social  ................................ ................................ ..............  22 
+E. Gender Equality and Social Inclusion  ................................ ............................  25 
+F. ",Project Management,2
+6,6_3,"l  ................................ ................................ ..............  22 
+E. Gender Equality and Social Inclusion  ................................ ............................  25 
+F. Climate Change  ................................ ................................ .............................  26 
+G. Risks and Mitigation Measures  ................................ ................................ ...... 26 
+Annex 1: Results Monitoring Framework  ................................ ................................ .... 29 
+Annex 2: Economic and Financial Analysis  ................................ ................................  30 
+Annex 3: Sovereign Credit Fact Sheet  ................................ ................................ ........  36 
+Annex 4: GESI Assessment and Strategy  ................................ ................................ .. 39 
+Annex 5: Paris Agreement Alignment Assessment  ................................ .....................  43 
+Annex 6:",Information Technology,4
+6,6_4,"d Strategy  ................................ ................................ .. 39 
+Annex 5: Paris Agreement Alignment Assessment  ................................ .....................  43 
+Annex 6: Graphic of the Metro Network of Kochi  ................................ ........................  45",Legal & Compliance,1
+7,7_1,"2 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+1. SUMMARY SHEET  
+ 
+Project No.  P000795  
+Project Name  Kochi Metro Rail Project - Phase II  
+AIIB Member  Republic of India  
+Borrower  Republic of India  
+Project Implementation 
+Entity  Kochi Metro Rail Limited  (KMRL)  
+Sector  
+Subsector  Transport  
+Urban Transport  
+Alignment with AIIB's 
+thematic priorities  Green infrastructur e and Private Capital Mobilization  
+Project Objective  The project’s objective is to  improve urban mobility on 
+the Jawaharlal Nehru (JLN) Stadium  – Smart City  
+corridor via Kakkanad  in Kochi.  
+Project Description  The project will support the implementation of  Phase II 
+of Kochi Metro , which  will include the construction of an 
+elevated, electrified metro rail system of 11.2 km and 11 
+stations along the JLN Stadium – Smart City  corridor , 
+serving Kakkanad area, a  densely populated and fast -
+growing employment hub. It will finance (i) the design 
+and build of a viaduct str",Project Management,10
+7,7_2,"d 11 
+stations along the JLN Stadium – Smart City  corridor , 
+serving Kakkanad area, a  densely populated and fast -
+growing employment hub. It will finance (i) the design 
+and build of a viaduct structure, stations, and tracks; and 
+(ii) procurement and installation of systems, including 
+signaling, telecommunications,  auxiliary main 
+substation,  traction and power supply facilities.  
+Implementation  
+Period  Start Date: Q 3 2024  
+End Date: Q4 2027 
+Expected Loan Closing 
+Date  Q4 2027 
+Cost and Financing Plan  Project cost: USD229.88 million  
+Project financing plan : 
+AIIB loan: USD122.32 million  
+GOI contribution: USD40.76 million  
+GOK contribution: USD66.80 million  
+Size and Terms of AIIB 
+Loan  USD 122.3 2 million  
+AIIB’s standard interest rate for sovereign -backed 
+loans.  
+Co-financing  
+(Size and Terms)  No 
+Environmental  
+and Social  Category  Category A  
+Risk (Low/Medium/High)  Medium  
+Conditions for 
+Effectiveness  Legal opinion on the Loan Agreement  received ",Information Technology,5
+7,7_3," 
+Co-financing  
+(Size and Terms)  No 
+Environmental  
+and Social  Category  Category A  
+Risk (Low/Medium/High)  Medium  
+Conditions for 
+Effectiveness  Legal opinion on the Loan Agreement  received . 
+Key Covenants  • To retain and maintain the  General Consultant (GC) 
+throughout the project implementation.  
+• To engage an independent third -party monitoring 
+agency , acceptable  to AIIB  by March 2025 , to verify 
+project environmental and social ( E&S) compliance",Project Management,4
+8,8_1,"3 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+and report every six months  throughout the project 
+implementation.   
+• To engage the chartered accountant firm appointed 
+by the  Comptroller  and Auditor General (CAG)’s 
+Office  no later than six months after the end of each 
+fiscal year  to conduct the external audit of the 
+Project Financial Statements ( PFS) in accordance  
+with Section 5.09 of the General Conditions .  
+Conditions for 
+Disbursement  The Project Implementation Manual (PIM) to be 
+prepared by KMRL and approved  by AIIB.  
+Retroactive Financing 
+(Loan % and dates)  All eligible expenditures under the project, incurred in 
+compliance with AIIB’s procurement policies and 
+guidelines and in respect of which payments were made 
+not more than 1 8 months prior to the date of the loan 
+agreement, up to 30 percent  of the loan’s amount . 
+Policy Assurance  The Vice President, Policy and Strategy, confirms an 
+overall assurance that AIIB is in compliance w",Procurement,7
+8,8_2,"ior to the date of the loan 
+agreement, up to 30 percent  of the loan’s amount . 
+Policy Assurance  The Vice President, Policy and Strategy, confirms an 
+overall assurance that AIIB is in compliance with the 
+policies applicable to the project . 
+Economic Capital (Ecap) 
+Consumption  USD 13.89  million  
+ECap Ratio: 14.12 percent  
+Project Approval  President  
+ 
+President  Jin Liqun  
+Acting Vice President  and 
+Director General  Rajat Misra , Public Sector Clients , Region 1  
+Manager  André s Pizarro, Principal Investment Of ficer 
+Team Leader  Tomá s Herrero Diez , Investment Officer 
+Team Members  Purnendu Pathak  (Procurement Specialist ) 
+Jurminla Jurminla  (Senior Procurement Specialist ) 
+David Rollinson ( Senior Environment Specialist ) 
+Siva Rama Krishna Sastry Jyosyula  (Senior  Social 
+Development Specialist ) 
+Alberto Alcubilla (Senior Investment Solutions  
+Specialist)  
+Shodi Nazarov  (Financial Management Specialist ) 
+David Hartcher  (Senior Finance Officer ) 
+Christo",Procurement,7
+8,8_3,"  Social 
+Development Specialist ) 
+Alberto Alcubilla (Senior Investment Solutions  
+Specialist)  
+Shodi Nazarov  (Financial Management Specialist ) 
+David Hartcher  (Senior Finance Officer ) 
+Christopher Damandl  (Senior  Counsel ) 
+Kezia Paladina  (Associate  Counsel ) 
+Md. Towshikur Rahman  (Investment Associate ) 
+Shiwen Dong  (Admin Assistant )",Finance,1
+9,9_1,"4 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+2. CONTEXT  
+1. Macroeconomic Context.  The population in India  has grown more than 
+threefold since 1950 , resulting in  a young population  of over 1.4 billion ,1 offering  a 
+sizeable  labor force and a booming  consumer market. The country is  one of the world’s 
+largest economies, powered by a mix of agriculture, manufacturing, and services sectors . 
+Despite the setback caused by COVID -19, which resulted in an economic contraction of 
+nearly 5.8 percent in 2020, the economy rebounded strongly to 7.2 percent in 2022 .2 
+The anticipated rate of increase for the Gross Domestic Product (GDP) is estimated to 
+be 5.9 percent in 2023 and  6.3 percent  in 2024 .3 In addition, n oticeable  progress has 
+been observed in reducing extreme poverty, with estimates suggesting that between 
+2011 and 2019, the portion of the population living in extreme poverty  (defined as living 
+below USD2.15 per person per day ) was halved ",Procurement,7
+9,9_2,"cing extreme poverty, with estimates suggesting that between 
+2011 and 2019, the portion of the population living in extreme poverty  (defined as living 
+below USD2.15 per person per day ) was halved .4 India has an aspiration to achieve 
+high middle -income status by 2047.5 Nevertheless, the issue of inequality continues to 
+endure, as seen by a Gini index of approximately 35 for the preceding two decades .6 
+Despite encouraging employment trends since 2020, the employment to population (15+) 
+ratio in 2022 is still less than 50 percent  and concerns  linger  about job quality, wage  
+growth, and women ’s underrepresentation in the workforc e.7 Recognizing the se 
+challenges  and to spur economic growth and unleash India ’s full potential , in 2018, the 
+Government  of India (GOI)  suggested way forwards  and reforms  focused on  four 
+sections : (i) economic drivers, (ii) infrastructure, (iii) inclusion, and (iv) governance .8  
+2. Urbanization  of India . India ’s urbanization is ga",Procurement,6
+9,9_3,"ted way forwards  and reforms  focused on  four 
+sections : (i) economic drivers, (ii) infrastructure, (iii) inclusion, and (iv) governance .8  
+2. Urbanization  of India . India ’s urbanization is gaining pace  as a result of the 
+country's improving economic situation . From 1990 to 2022, the urban population has 
+steadily increased , growing from 2 6 to 36 percent, bringing the total  number of  urban 
+dweller s to a whopping half a billion .9 It is projected that by 2035, India's urban 
+population will reach 675 million, representing  43 percent of the entire population .10 This 
+swift urbanization is amplifying  the importance of cities as living spaces and economic 
+hubs.  Cities in India make up just 3  percent  of the country's territory, yet they account 
+for a staggering 60  percent  of its GDP.11 In recent years, urbanization has improved 
+living standards and employment prospects . However , these opportunities  have  also led 
+to challenges , such as traffic congestion,  a",Information Technology,7
+9,9_4,"ent  of its GDP.11 In recent years, urbanization has improved 
+living standards and employment prospects . However , these opportunities  have  also led 
+to challenges , such as traffic congestion,  air pollution, and income inequality .12 
+ 
+ 
+1 World Population Review; India; 2023 (live, consulted in September 2023); ( link). 
+2 The World Bank; “ GDP Growth (annual %) – India ”; 2023; ( link). 
+3 International Monetary Fund; “World Economic Outlook” ; 2023. ( link). 
+4 World Bank Poverty and Inequality Portal and Macro Poverty Outlook, Spring 2023 ; (link). 
+5 The Indian Express; “ Express View: India’s Road to 2047 ”; 2023; ( link). 
+6 The World Bank; “ Gini Index  – India ”; 2023; ( link). 
+7 46 percent . Source: The World Bank; “ Employment to population ratio, 15+, total ( percentage ) (modeled 
+ILO estimate) - India ”; 2023; ( link). 
+8 The first section on drivers focuses on the engines of economic performance in macroeconomic terms,  
+the second section on infrastructure deals",Procurement,7
+9,9_5," ) (modeled 
+ILO estimate) - India ”; 2023; ( link). 
+8 The first section on drivers focuses on the engines of economic performance in macroeconomic terms,  
+the second section on infrastructure deals with the physical foundations of growth , the section on inclusion 
+deals with the task of investing in the capabilities of all of India’s citizens , and the final section on governance 
+delves deep into how the tasks/business of GOI can be streamlined and reformed to achieve better 
+outcomes . Source:  NITI Aayog; “ Strategy for New India@75 ”; 2018; ( link). 
+9 World Bank; Databank; ( link). 
+10United Nations ; “Habitat’s World Cities Report ”; 2022  (link). 
+11 NITI Aayog, Asian Development Bank; “Cities as Engines of Growth (TA -9508: Strengthening the States 
+for broad based urban development, Executive Summary)” ; 2022; ( link). 
+12 J. Colmer; “ Urbanization , Growth, and Development: Evidence from India ”; London School of Economics; 
+(link).",Information Technology,10
+10,10_1,"5 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+3. Indian Transport Context . India's transport sector encompasses diverse 
+modes, including road, rail, air, and waterways . Due to rising urbanization, economic 
+expansion, and demographic boom , this sector  has seen substantial growth and 
+modernization over the last years . India's road network  (more than 6  million km)13 forms 
+the backbone of the country's transport system  through connecting cities, towns, and 
+villages with its vast network The Indian Railways  (renowned for its extensive rail 
+network spanning 68,103 km14) serves as a vital transport mean  facilitating the 
+movement of millions of individuals and substantial amounts of cargo . The extensive 
+navigable inland waterways network  (15,519 km15) also offers tremendous potential for 
+effective commercial transport . As of 2018 -19, about 152,000 public  buses catered to 
+about 60 million trips per day in the country.16 It is projected that, based o",Information Technology,8
+10,10_2,"offers tremendous potential for 
+effective commercial transport . As of 2018 -19, about 152,000 public  buses catered to 
+about 60 million trips per day in the country.16 It is projected that, based on the current 
+average passenger ridership per bus, an additional 460,000 buses will be needed to 
+meet the urban public transport demand by the year 2031.17 This need is in addition to 
+various other modes of public transport.  Currently, there are 20 Indian cities with 
+functioning metro rail services covering a length of 895 km and allowing approximately 
+10 million passengers to avail this metro service per day .18 This dearth of  public 
+transport has led to  traffic congestion and high private vehicle ownership, resulting in  
+increased road fatalities19 and CO 2 emissions ( in 2020, the transport sector was 
+responsible for approximately 13 percent  of all national emissions,20 with 90  percent  of 
+them originating from road traffic21). Over the last decade, GOI has been working on",Procurement,7
+10,10_3," transport sector was 
+responsible for approximately 13 percent  of all national emissions,20 with 90  percent  of 
+them originating from road traffic21). Over the last decade, GOI has been working on 
+various initiatives to modernize and improve the sector  (e.g., conversion to electric mode, 
+enhancement  of last -mile connectivity, or integration of multimodal solution s for 
+seamless transportation ). 
+4. Kochi22 Urbanization.  Kochi , a port city located in the southwest coastal area  
+of India , is the commercial capital of the state of Kerala . After the economic reforms 
+introduced by GOI in the early  1990s , the city's growth  has been propelled  and benefited  
+from its strategic location  to become a thriving commercial hub. Since 2000, the service 
+sector has boosted  the city's economy . 23 The establishment of technology parks (like 
+ 
+ 
+13 It includes (i) national highways  (144,634 km ); (ii) state highways  (186,908 km ); and  (iii) other roads  
+(5,902,539 km ). Sour",Information Technology,11
+10,10_4,"'s economy . 23 The establishment of technology parks (like 
+ 
+ 
+13 It includes (i) national highways  (144,634 km ); (ii) state highways  (186,908 km ); and  (iii) other roads  
+(5,902,539 km ). Source: Ministry of Road Transport and Highways; “ Year End Review ”; 2022; ( link). 
+14 The World Bank; “ Rail lines (total route -km)- India ”; 2023; ( link). 
+15 Transport Research Wing, Ministry of Ports, Shipping and Waterways ; “Statistics of Inland Water 
+Transport 2021 -22”; 2023 ; (link). 
+16 Ministry of Road Transport and Highways, Transport Research Wings; “Review of the Performance of  
+State Road Transport Undertakings for 2017 -18 & 2018 -19”; 2023; ( link). 
+17 Klynveld Peat Marwick Goerdeler (KPMG); “Reimagining public transport in India ”; 2017; ( link). 
+18 The Times of India; “ One Crore Passengers Riding Metro Systems per Day in India ”; October 27, 2023; 
+(link) 
+19 In 2021, m ore than 4 00,000  road accident was recorded, where the fatalities were more than 1.5 million . ",Procurement,8
+10,10_5,"One Crore Passengers Riding Metro Systems per Day in India ”; October 27, 2023; 
+(link) 
+19 In 2021, m ore than 4 00,000  road accident was recorded, where the fatalities were more than 1.5 million . 
+Source: Ministry of Road Transport and Highways; “Road Accidents in India 2021” ; 2022; ( link). 
+20 307.86Mt out of 2.42 giga tons of CO 2 emissions. Source: ClimateWatch; “ Historical GHG Emissions ”; 
+accessed in June 2023; ( link). 
+21 The International Council on Clean Transportation; “Decarbonizing India’s Road Transport: A Meta -
+Analysis of Road Transport Emissions Models ”; 2022; ( link). 
+22 The referred a rea is Greater Cochin Development Area and consists of the Greater Cochin Development 
+Authority  (GCDA),  including Kochi Municipal Corporation , and Goshree Islands Development Authority  
+(GIDA) . The entire area spread s over approximate 730 square km and comprises of one corporation,  9 
+municipalities and 29 panchayats  (a local government body at the sub -urban/ rural l",Procurement,6
+10,10_6,"Authority  
+(GIDA) . The entire area spread s over approximate 730 square km and comprises of one corporation,  9 
+municipalities and 29 panchayats  (a local government body at the sub -urban/ rural level of India ). Source : 
+Urban Mass Transit Company Limited  for KM RL; “Draft Comprehensive Mobility Plan Report ”, 2023 . 
+23 Fortune India; “For Kochi, past and present make the future perfect” ; 2021; ( link).",Information Technology,5
+11,11_1,"6 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+the Infopark ,24 in 2004)  has turned Kochi into a burgeoning IT hub, drawing  skilled 
+professionals and creating high -quality employment opportunities. This economic 
+growth  led to a rapid urbanization process. Over the last two decades , the population of 
+the city increased  from 1.4 to 2.4 million  and the population density increased  from 2,935  
+to 5,400 people  per square km. 25 Sustainable management of this growth is imperative  
+to contribute to  Kochi's prosperity  and livability.  
+ 
+5. Kochi Transport Network.  The city is integrated with India's National Highway 
+System ,26 facilitating connectivity to  major cities and several state highways .27 The 
+urban road network comprises major arterial roads , such as  Mahatma Gandhi Road, 
+Chittoor Road, and Marine Drive Road. The Kochi  International Airport handles both 
+domestic and international flights, while the railway  system  links Kochi to nearby to",Information Technology,15
+11,11_2,"h as  Mahatma Gandhi Road, 
+Chittoor Road, and Marine Drive Road. The Kochi  International Airport handles both 
+domestic and international flights, while the railway  system  links Kochi to nearby towns 
+and cities . Kochi's transport infrastructure, while comprehensive, lacks sufficient high -
+capacity urban public transit systems.  The public transport network currently consists of 
+(i) public buses28, (ii) one metro  rail line (28.2 km and 25 stations), 29 (iii) two water metro 
+lines,30 (iv) ferry and  roll-on/roll-off (RORO ) service31, and (v) intermediate public 
+transport (IPT)32, for convenient short -distance options. A good portion of Kochi resides 
+in the lowest elevation range of 0 -3 m above mean sea level, and approximately 8.6 
+percent of the total area falls within the very high - and high -risk flooding zone, exposing 
+its transport infrastructure to cyclones, floodin gs, and other climate risks.33 
+ 
+ 
+ 
+24 Infopark, located in the Kakkanad area, is a state -of-the-",Information Technology,8
+11,11_3,"ry high - and high -risk flooding zone, exposing 
+its transport infrastructure to cyclones, floodin gs, and other climate risks.33 
+ 
+ 
+ 
+24 Infopark, located in the Kakkanad area, is a state -of-the-art technology park that has become a symbol 
+of Kochi's emergence as a major IT and business hub in India. It was established with the aim of fostering 
+the growth of the information technology industry i n Kerala and attracting leading IT companies from around 
+the world.  Since its establishment, it has created more than 51,000 employees. Source: Infopark; “ Annual 
+Report ”; 2020 -2021; ( link). 
+25 Source for 2001 data:  Office of the Registrar General and Census Commissioner, Ministry of Home Affairs, 
+GOI; ""Table A -04: Towns and Urban Agglomerations Classified by Population Size Class in 2011 with 
+Variation Between 1901 and 2011 - Class I (Population of 100,000 and Above)""; 2011 ( link). Source for 
+2022 data: Demographia; “ Demographia World Urban Areas, 18th Annual ”; July 2022;",Information Technology,10
+11,11_4,"in 2011 with 
+Variation Between 1901 and 2011 - Class I (Population of 100,000 and Above)""; 2011 ( link). Source for 
+2022 data: Demographia; “ Demographia World Urban Areas, 18th Annual ”; July 2022; ( link).  
+26 It is integrated with the following highways: NH 544, NH85 , NH 66, NH 966A , and NH 966B . 
+27 Some of the major state highways are SH 1, SH 15, SH 16, SH 41, SH 63, SH 66 . 
+28 At present, city bus services are provided mainly by private operators and Kerala State Road Transport 
+Corporation (KSRTC) for Kochi and satellite towns. A total of 148 services across 49 routes are operated 
+by KSRTC during the morning peak while private buses operate 421 services covering roughly 8 ,500 km of 
+road network.  Source: Urban Mass Transit Company Limited for KM RL; “Draft Comprehensive Mobility Plan 
+Report ”, 2023.  
+29 This is as of September  2023, and it  includes 27.2 km and 24 stations under operation and 1 km and 1 
+station being constructed . Source: KMRL; “ Kochi Metro Rail ",Operations,10
+11,11_5,"obility Plan 
+Report ”, 2023.  
+29 This is as of September  2023, and it  includes 27.2 km and 24 stations under operation and 1 km and 1 
+station being constructed . Source: KMRL; “ Kochi Metro Rail Phase II (JLN Stadium to Infopark via 
+Kakkanad). AIIB Mission . Day 1 ”; September 11, 2023.  
+30 It is a water -based transport system t hat aim s to connect 10 islands  in Kochi  and will include  15 routes 
+and 38 jetties  (with 2 routes and 5 jetties in operation since February 2021). The total planned route length 
+is 76 km with an expectation of 34,000 daily ridership . It will have 8 to 15 minutes headway and be operated 
+through highly energy efficient 78 boats . The project is being supported by Kreditanstalt fü r Wiederaufbau 
+(KfW), which is the main German development bank.  Source:  Swarajya; “Explained: Why India's First Water 
+Metro Is A Game Changer For Urban Mobility With Innovative, Inclusive And Sustainable Approach?”; 2023; 
+(link); and  KMRL; “Kochi Water Metro. Conne",Information Technology,10
+11,11_6,"e:  Swarajya; “Explained: Why India's First Water 
+Metro Is A Game Changer For Urban Mobility With Innovative, Inclusive And Sustainable Approach?”; 2023; 
+(link); and  KMRL; “Kochi Water Metro. Connecting Lives, Connecting Miles ”; presented on September 13, 
+2023.  
+31 Ferry Services are used by 12,000 to 15,000 passengers daily, available in Ernakulam, Willington Island, 
+Fort Kochi and Vypin with a frequency of 15 minutes. Two RORO services are available connecting Fort 
+Kochi and Fort Vypin, but these services are intermittently operational.  
+32 IPT is privately -run 3-seater  intermediate modes of transport providing point to point connectivity . In Kochi, 
+roughly 10  percent  of the trips are made by IPT modes (auto -rickshaws, shared auto -rickshaws) . Source: 
+Urban Mass Transit Company Limited for KM RL; “Draft Comprehensive Mobility Plan Report ”, 2023.  
+33 K. Sowmya; C. M. Jon; N. K. Srivastava., 2014, “ Urban Flood Vulnerability Zoning of Cochin City, 
+Southwest Coast o",Information Technology,10
+11,11_7," Company Limited for KM RL; “Draft Comprehensive Mobility Plan Report ”, 2023.  
+33 K. Sowmya; C. M. Jon; N. K. Srivastava., 2014, “ Urban Flood Vulnerability Zoning of Cochin City, 
+Southwest Coast of India, Using Remote Sensing and GIS, ” Journal of the International Society for the 
+Prevention and Mitigation of Natural Hazards, Vol. 73, issue 0921 -030X.; ( link).",Information Technology,5
+12,12_1,"7 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+6. Kochi Metro Rail Phase I . This is a relatively recent addition to Kochi’s transport 
+network, construction of which was started in 2013 . Phase I of the Kochi Metro  from 
+Aluva  to Petta is operational .34 Subsequently, i t was expanded from Petta  to S N 
+Junction ,35 and from S N Junction to Thrippunithura .36 The average daily ridership has 
+been  growing  over 2023  (in September  2023 , it was 91,28837). Phase I  stands out due 
+to several distinctive features . A portion of  Phase I was made accessible to the public in 
+a very short span of four years from the project’s commencement, making it one of the 
+fastest completed metro in India.38 It has also championed inclusivity by employing 23 
+individuals from the transgender community to manage counters and undertake 
+housekeeping duties at stations. In addition to that, it has also indirectly facilitated the 
+creat ion of  employment for another 500 workers f",Information Technology,10
+12,12_2,"transgender community to manage counters and undertake 
+housekeeping duties at stations. In addition to that, it has also indirectly facilitated the 
+creat ion of  employment for another 500 workers from Kudumbasree3940. Kochi has also 
+been honored with the "" City with most Sustainable Transport System "" by the Union 
+Ministry of Housing and Urban Affairs in  2021.41 This accolade acknowledges Kochi's 
+efforts in integrating sustainable modes of transport like Kochi Metro  Rail, Water Metro 
+and e -mobility. In October 2017, Kochi Metro was also awarded the Best Urban Mobility 
+Project in India by the Urban Development Ministry, as part of the Urban Mobility India 
+(UMI) international conference.   
+ 
+7. Kochi Metro Rail Phase II . The transport services  provided by Phase I  prove to 
+be insufficient  in meeting the escalating demand spurred by the above -described rapid 
+urbanization . Recognizing this, the Government of Kerala  (GOK), is now undertaking 
+Phase II of Kochi Metro  Ra",Information Technology,11
+12,12_3," insufficient  in meeting the escalating demand spurred by the above -described rapid 
+urbanization . Recognizing this, the Government of Kerala  (GOK), is now undertaking 
+Phase II of Kochi Metro  Rail from Jawaharlal Nehru (JLN)  Stadium  to Smart City  via 
+Kakkanad in Kochi  (11.2 km and 11 stations ). Aligned with K MRL 's mission and vision, 
+and considering the trajectory of urban growth, G OI extended a request to the Asian 
+Infrastructure Investment Bank (AIIB) to support financing  Phase II.42 GOK is also 
+planning Phase III from Aluva  to Angamaly (with a link to Kochi International Airport at 
+Nedumbassery) ( the Detailed Project Report {DPR } preparation is in progress) .43 
+ 
+3. PROJECT DESCRIPTION  
+A. Project Overview  
+8. Project Objective.  The objective of the project is to improve urban mobility on  
+the JLN Stadium  – Smart City  corridor  via Kakkanad in Kochi.   
+9. Project Description.  The project will support  the implementation of  Phase II of 
+the Kochi Metr",Project Management,10
+12,12_4," to improve urban mobility on  
+the JLN Stadium  – Smart City  corridor  via Kakkanad in Kochi.   
+9. Project Description.  The project will support  the implementation of  Phase II of 
+the Kochi Metro Rail. It will include the construction of an 11.2 km elevated  and 
+ 
+ 
+34 It consists of 25. 2 km, 22 stations and 1 depot in Mutton. From Aluva to Palarivattom (13.4 km) was 
+opened to passengers on June 17, 2017. The remaining portions were opened to passengers gradually 
+over a span of three years, with the last section open to the public on  September 7, 2020 . 
+35 It consists of 2 km and 2 stations,  and it was commissioned on September 1, 2022.  
+36 It consists of 1 km and 1  station and was commissioned on March  6, 2024 . 
+37 KMRL . 
+38 Deccan Chronicle; “Kochi Metro creates national record” ; 2017; ( link) 
+39 In Malayalam language, the name Kutumbashree means “prosperity of the family ”. Kudumbashree  is the 
+poverty eradication and women empowerment program  implemented by th",Information Technology,9
+12,12_5,"l record” ; 2017; ( link) 
+39 In Malayalam language, the name Kutumbashree means “prosperity of the family ”. Kudumbashree  is the 
+poverty eradication and women empowerment program  implemented by the State Poverty Eradication 
+Mission (SPEM) of G OK. 
+40 The Hindu; “Many firsts for Kochi Metro: vertical gardens, open -loop cards and more” ; June 17, 2017; 
+(link) 
+41 The Times of India; “Kochi city wins national honour” ; 2021; ( link) 
+42 The related  Posing Letter was received  by AIIB  on June 20, 2023.  
+43 It is expected to consist  of 19.90 km and  14 stations .",Procurement,4
+13,13_1,"8 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+electrified metro rail system and  11 metro stations along the JLN – Smart City  corridor 
+which serves the Kakkanad area, a densely populated and fast -growing employment 
+hub. The project aims to provide seamless  and last-mile connectivity through multi -
+modal integration by combining  the metro rail system with the neighboring jetties of  
+Kochi  Water Metro, feeder bus , and e-autorickshaw services.  Other interventions  
+planned  under /related to  the project  include the construction of  Non-motorized Transport 
+(NMT ) infrastructure  and transit -oriented development (TOD) . The project will provide a 
+computer -based Automatic Fare Collection (AFC) system with a contactless smart 
+token/card , and  deploy  a Communication based Train Control (CBTC) System . The 
+power supply system will be monitored and controlled from a centralized Operation 
+Control Center using a modern Supervisory Control and Data Acquisi",Information Technology,11
+13,13_2,"unication based Train Control (CBTC) System . The 
+power supply system will be monitored and controlled from a centralized Operation 
+Control Center using a modern Supervisory Control and Data Acquisition (SCADA) 
+system. AIIB´ s contribution  will finance  part of the civil works (viaduct structure, stations, 
+and tracks) , and the procurement and installation of systems  (including signaling, 
+telecommunications, auxiliary main substation, traction , and power supply facilities ). 
+10. Expected Results .  The following  indicators will be monitored  to assess the 
+achievement of the project ’s objective : 
+• Public transport journey time  (in minutes) from J LN Stadium to Smart City . 
+• Number of passengers  transported daily by the Kochi Metro Rail  (Phase II) . This 
+indicator will be disaggregated by gender44 to monitor the number of female 
+passengers transported daily by the Kochi Metro Rail (Phase II).  
+• Percentage of the trains reaching the end stations within 3 minutes fro",Information Technology,11
+13,13_3," disaggregated by gender44 to monitor the number of female 
+passengers transported daily by the Kochi Metro Rail (Phase II).  
+• Percentage of the trains reaching the end stations within 3 minutes from the 
+scheduled time on the corridor of  Phase II  (reliability ). 
+11. The project intermediate results (IR)  indicators  will be measured periodically45 
+during project implementation to verify  that the project is progressing in accordance with 
+the implementation plan. The IR indicators are: 
+• Km of elevated viaduct  constructed  for Phase II of the Kochi Metro Rail .  
+• Number of s tations  constructed with barrier -free, gender -responsive and climate -
+resilient features .  
+• Percentage  of the track work s completed . 
+• Percentage  of the s ystem s installed . 
+ 
+The Results Monitoring Framework (RMF) is provided in the Annex 1.  
+12. Expected Beneficiaries.  Overall, 2.4 million inhabitants46 of the project  area are 
+expected to benefit  from improved urban mobility. In addi",Information Technology,9
+13,13_4,"oring Framework (RMF) is provided in the Annex 1.  
+12. Expected Beneficiaries.  Overall, 2.4 million inhabitants46 of the project  area are 
+expected to benefit  from improved urban mobility. In addition, the enhanced connectivity 
+will increas e economic  opportunities and  prospects.  In particular, the new metro 
+passengers , who are the regular commuters along the corridor , will be the potential 
+primary beneficiaries as they  will enjoy  faster, more reliable , and better -quality transport 
+means . Existing riders from  Phase I corridor will also benefit from expanded coverage . 
+The additional metro line will provide network effects which are, essentially, a larger 
+proportion of origin and destinations served by the system benefitting all  the users. The 
+secondary beneficiaries will be the inhabitants living nearby in  residential  building s and 
+ 
+ 
+44 KMRL has recently initiated a pilot project, in cooperation with the Cochin University  of Science and 
+Technology, to est",Information Technology,16
+13,13_5,"will be the inhabitants living nearby in  residential  building s and 
+ 
+ 
+44 KMRL has recently initiated a pilot project, in cooperation with the Cochin University  of Science and 
+Technology, to estimate the percentage  of female users based on the information collected by the Close 
+Circuit Television  (CCTV ) and using artificial intelligence. This pilot is expected to be expanded to Phase II.  
+45 The monitoring frequency for each indicator is provided in the Annex 1.  
+46 Urban Mass Transit Company Limited for KM RL; “Draft Comprehensive Mobility Plan Report ”, 2023 .",Information Technology,10
+14,14_1,"9 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+the commercial establishments along the proposed  corridor , as the project will help to 
+lessen  traffic congestion  on the existing transport network and increase the  value of their 
+properties and  comm ercial activit y. Furthermore, the project will also support  universal 
+accessibility, allowing the elderly, women, children, and persons with disabilities  (PWD)  
+to use the metro .47  
+B. Rationale  for AIIB Involvement  
+13. Strategic Fit for AIIB.  The project  is highly align ed with the  AIIB’s  (i) Corporate  
+Strategy , (ii) Transport  Strategy , (iii) Sustainable Cities Strategy , and (iv)  Strategy on 
+Mobilizing Private Capital for Infrastructure Strategy.  
+• Corporate Strategy . The project is aligned with two of AIIB’s thematic priori ties: 
+(i) Green Infrastructure  and (ii) Private Capital Mobilization . The project  is 
+considered a Green Infrastructure as  it will provide a new line of  electric a",Information Technology,11
+14,14_2," two of AIIB’s thematic priori ties: 
+(i) Green Infrastructure  and (ii) Private Capital Mobilization . The project  is 
+considered a Green Infrastructure as  it will provide a new line of  electric ally-
+powered public transport, that will contribute to  a shift of passengers from other 
+public and private  transport modes to it,  alleviat ing road congestion, which will 
+consequently reduce greenhouse gas  (GHG ) emissions , air pollution  and noise  
+in Kochi, in particular, along the  JLN – Smart City  corridor . Furthermore , part of 
+the power required  for the operation of the s tations  is proposed to be met through 
+solar power plants48 installed on the stations’ roof tops. A public-private 
+partnership (PPP) scheme will be implement ed for AFC, and TOD  schemes  will 
+be pursued  along the corridor.  
+• Transport Sector Strategy . The proposed project will contribute to achieving  
+seamless multimodal integration across the Kochi transport system. The project 
+will be interco",Procurement,10
+14,14_3," along the corridor.  
+• Transport Sector Strategy . The proposed project will contribute to achieving  
+seamless multimodal integration across the Kochi transport system. The project 
+will be interconnected to Phase I of the Kochi Metro Rail, the Water Metro , 
+existing feeder bus routes , the NMT infrastructure,  and the newly proposed semi -
+high speed rail corridor (Thrivananthapuram to Kasaragod) .49 In addition, the 
+contactless smart token/card  currently  used for Phase I and the Water Metro  will 
+be also adopted for Phase II to ensure  seamless  integration . 
+• Sustainable Cities Strategy . The proposed project will enhance urban mobility in 
+a rapidly growing metropolitan area , which is one of the priorities of this strategy . 
+It will also improve basic infrastructure supply and city resilience by expanding 
+the current  metro system. Furthermore, the development of a T OD strategy 
+along the metro corridor  is envisaged.  
+• Mobilizing Priv ate Capital for Infrastructure",Information Technology,10
+14,14_4,"and city resilience by expanding 
+the current  metro system. Furthermore, the development of a T OD strategy 
+along the metro corridor  is envisaged.  
+• Mobilizing Priv ate Capital for Infrastructure Strategy.  A PPP scheme will be  
+adopted  for AFC,50 which will facilitate fiscally constrained  governments to 
+deliver urban infrastructure.  
+ 
+ 
+47 For further details on the measures proposed, see Section 4.E. and Annex 4 .  
+48 This will be funded with GOK/GOI’s contributions.  
+49 This a project proposed by Kerala Rail Development Corporation Limited (K -RAIL),  which is 
+currently  pending of GOI’s  approval  (the DPR was prepared in June 2020) . The total length of the project 
+is 529.45 km spanning from  Thiruvananthapuram to Kasaragod (via Kollam, Chengannur, Kottayam, 
+Ernakulam, Kochi Airport, Thrissur, Tirur, Kozhikode, and Kannur). The total expected cost of this project is 
+USD7.6 billion.  Sources:  (i); Systra for KRAIL; DPR titled “ Semi High Speed rail Corridor 
+(Thir",Information Technology,7
+14,14_5," Kochi Airport, Thrissur, Tirur, Kozhikode, and Kannur). The total expected cost of this project is 
+USD7.6 billion.  Sources:  (i); Systra for KRAIL; DPR titled “ Semi High Speed rail Corridor 
+(Thiruvananthapuram to Kasaragod"" ; June 2020;  and (ii) The Hindu; ""Kerala revises its plan for semi -high 
+speed rail line""; July 2023; ( link). 
+50 For further details on the AFC model, see the Financing Plan in the Section 3. E.",Finance,2
+15,15_1,"10 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+14. Paris Agreement  Alignment (PAA) . The project is aligned with the Paris 
+Agreement  (PA)’s goals  in terms of mitigation ( building block { BB}1) and adaptation 
+(BB2)51 as justified below . 
+• BB1. Electric urban mobility projects,  as Phase II of Kochi Metro Rail , are 
+considered universally aligned  for BB1 . 
+• BB2. The project is also deemed  aligned for BB2 as (i) the climate risk and 
+vulnerability context  is established in the  Environmental Impact Assessment (EIA)  
+and the Environmental Due Diligence Report (EDDR) ; (ii) climate adaptation and 
+resilience  measures to address  the identified material physical climate risks were  
+proposed  in the EDDR and will be integrated into the forthcoming Detailed 
+Engineering Designs (DEDs) ; and (iii) the operation and its components are not 
+inconsistent with the national /broad context for climate  resilience  as outlined in 
+India’s  Nationally Determined Co",Information Technology,6
+15,15_2,"ngineering Designs (DEDs) ; and (iii) the operation and its components are not 
+inconsistent with the national /broad context for climate  resilience  as outlined in 
+India’s  Nationally Determined Contribution (NDC) ,52 India’s Long -Term Low -
+Carbon Development Strategy53, and the Kerala State Action Plan on Climate 
+Change (2023 – 2030) .54 Please refer to Annex 5 for further information.  
+15. Value Addition by AIIB.  Beyond the provision of financing, AIIB will bring its 
+accumulated experience and technical knowledge on preparing and implementing 
+similar metro projects in Asia, and India .55 AIIB’s participation will strength en the project 
+by contributing to : 
+• enhanc e KMRL’s technical  and project management capacity in prepar ing and 
+implement ing large infrastructure projects  consistent  with Multilateral 
+Development Bank (MDB)’s standards ;  
+• strengthen the  preparation and implementation of  E&S instruments , while 
+building KMRL’s E&S management capacity;  
+• as",Information Technology,7
+15,15_3,"cts  consistent  with Multilateral 
+Development Bank (MDB)’s standards ;  
+• strengthen the  preparation and implementation of  E&S instruments , while 
+building KMRL’s E&S management capacity;  
+• assess the  climate  vulnerability and  risks to guide the selection of appropriate 
+climate adaptation measures to be integrated into the  DEDs  of the project  to 
+deliver climate -smart rail -based infrastructure;  
+• improve procurement document quality, strengthen competition , and achieve a 
+greater value for money following AIIB’s Procurement Policy;  
+• bring  innovative solutions to promote multi -modal integration and last -mile 
+connectivity ; and  
+• leverag e private capital for the implementation of AFC and provide guidance for 
+planning and implementing  TOD strategies . 
+ 
+ 
+51 The assessment was conducted using the methodologies proposed in the (i) “BB1 and BB2 Technical 
+Note. Joint Multilateral Development Bank (MDB) Assessment Framework for Paris Alignment for Direct 
+Inv",Information Technology,8
+15,15_4,"he assessment was conducted using the methodologies proposed in the (i) “BB1 and BB2 Technical 
+Note. Joint Multilateral Development Bank (MDB) Assessment Framework for Paris Alignment for Direct 
+Investment Operations ”; November 2021; ( link); (ii)  AIIB; “ Guidance Note on Assessing Financing 
+Operations’ Alignment with the Paris Agreement at AIIB. Version 1.0 ”; June 2023 . 
+52 GOI; “ India’s Updated First Nationally Determined Contribution Under Paris Agreement (2021 -2030) 
+Submission to United Nations Framework Convention on Climate Change (UNFCCC) ”; August 2022,  (link). 
+53 One of the priorities of this Strategy is promoting climate adaptation in urban designs. Source: Ministry of 
+Environment, Forest and Climate Change (GOI) ; “India’s Long -Term Low -Carbon Development Strategy”; 
+Submission to the United Nations Framework Convention on Climate Change; 2022; ( link). 
+54 Directorate of Environment and Climate Change, Department of Environment, GOK; “ Kerala State Action 
+Pl",Information Technology,5
+15,15_5,"”; 
+Submission to the United Nations Framework Convention on Climate Change; 2022; ( link). 
+54 Directorate of Environment and Climate Change, Department of Environment, GOK; “ Kerala State Action 
+Plan on Climate Change 2023 -2030 ”; 2022; ( link). 
+55 E.g., (i) Chennai Metro Rail Phase 2 Project – Balance Corridor 5 (USD438.75 million, approved in April 
+2023);  (ii) Mumbai Urban Transport Project 3A – Station Improvement (USD100 million, approved in 
+October 2023); (iii) Haryana Orbital Rail Corridor (HORC) Part A  Project (USD128 million, approved in 
+December 2022); (iv) Chennai Metro Rail Phase 2 Project - Corridor 4 (USD356.67 million, approved in 
+September 2021); (v) Delhi -Meerut Regional Rapid Transit System (USD500 million, approved in October 
+2020); or (vi) M umbai Urban Transport Project - Phase III (USD500 million, approved in September 2019).",Project Management,5
+16,16_1,"11 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+16. Value Addition to AIIB.  The proposed project will be the first time AIIB ’s 
+financing  to KMRL. The rail -based mass rapid transit system supported by the operation 
+will be fully integrated with the  Kochi Water Metro . Consequently, the operation will 
+enable building AIIB’s knowledge on inter modality  between rail - and water -based urban 
+transport systems. In addition, the operation will increase AIIB's experience in urban 
+mass transport and contribute to the achievement of the AIIB's above -mentioned 
+thematic priorities and strategies . The successful implementation of th e project  could 
+lead to o ther investment opportunities  with KMRL , such as Phase III of the Kochi Metro 
+Rail, some urban regeneration project s in Kochi  or rail- and water -based metro projects  
+(to be prepared and implemented by KMRL ) in other Indian cities.  
+C. Lessons Learnt  and Reflected in the Project Design  
+17. The pro",Information Technology,11
+16,16_2," project s in Kochi  or rail- and water -based metro projects  
+(to be prepared and implemented by KMRL ) in other Indian cities.  
+C. Lessons Learnt  and Reflected in the Project Design  
+17. The project ’s design is informed by experiences from implementing  metro and 
+railway projects in and outside India , financed by AIIB and other international financial 
+institution s (IFIs). Lessons are also drawn from KMRL's experience in designing and 
+implementing Phase I of the Kochi Metro. Relevant lessons incorporated into project 
+preparation include:   
+• Land Acquisition and Utility Shifting: One of the pressing reasons for the 
+implementation delay of Phase I stemmed from the delay in completing land 
+acquisition  and utility shifting. Learning from Phase I, KMRL has already initiated 
+and made substantial progress in both areas  for Phase II.  
+• First- and Last-mile Connectivity : One of the reasons identified for the lower -
+than-expected ridership of Phase I was the lack of adequa",Project Management,8
+16,16_3,"d made substantial progress in both areas  for Phase II.  
+• First- and Last-mile Connectivity : One of the reasons identified for the lower -
+than-expected ridership of Phase I was the lack of adequate infrastructure and 
+services to access the system .56 Phase II considers intermodal integration of 
+feeder services  as well as the development of NMT infrastructure.  
+• Interoperability: For a smoother integration and reduced costs of operation and 
+maintenance  (O&M ), some of the systems and the trains utilized will be the same 
+for both Phase I and Phase II. For further details, see the Section 4. A.  
+• Civil and Track  Works : Considering th e recent flood s and the maritime 
+environment of Kochi , Phase II will include  drainage improvements in turnout 
+areas, redesigning base plates for better insulation, using galvanized steel 
+structures for corrosion resistance,  and introducing non -corrosive roof sheet 
+gutters. In addition, a strong emphasis will be placed on water manage",Information Technology,6
+16,16_4,"s for better insulation, using galvanized steel 
+structures for corrosion resistance,  and introducing non -corrosive roof sheet 
+gutters. In addition, a strong emphasis will be placed on water management to 
+facilitate rainwater harvesting, waterproofing, and appropriate drainage.  
+• Communication:  The communication system will be enhanced by optimizing the 
+fiber optic cable network, introducing  Passenger Information Display System  
+(PIDS ) at the street level, integrating  CCTV with the existing security control 
+room, and providing Surge Protection Device (SPD) for telecom data to protect 
+against lightning/surge. Harder materials will be used for AFC gate flaps and 
+enhanced QR readers will be installed on AFC gates to improve ticket readability . 
+• Rolling Stock:  Several actions are considered to improve  the durability and 
+reliability of train equipment . This includes the use of suitable seats (may be 
+metal seats instead of  Fiber Reinforced Plastic  {FRP} seats) and ad",Information Technology,11
+16,16_5,"s are considered to improve  the durability and 
+reliability of train equipment . This includes the use of suitable seats (may be 
+metal seats instead of  Fiber Reinforced Plastic  {FRP} seats) and addressing 
+certain hardware failures (e.g.,  those related to  Advanced Protection System 
+(APS), antenna mountings, saloon light, CCTV , and PIDS ).  
+ 
+ 
+56 Systra and Quadrant Conseil for KMRL and the Agence  Franç aise de Dé veloppement  (AFD); “ Ex-post 
+Evaluation of Kochi Metro Project (Phase I) ”; November 18, 2021 .",Information Technology,4
+17,17_1,"12 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+D. Components  
+18. The project comprises  three components as indicated below. While AIIB will 
+finance only  part of  components 1 and 2, component 3 will be solely financed by the 
+local funds from India.  
+• Component 1 – Civil Works ( CW). This will support the design and build of 11.2 
+km of elevated viaduct, 11 stations , tracks , and other related civil works  
+(including barrier -free, gender -responsive , and climate -resilient features ).57 
+Specifically, this component will finance  the (i)  design and build  of 11.2 km of 
+viaduct  and 11 station s; (ii) architectural finishes for all stations ; (iii) design and 
+build for track work ; (iv) construction of the  entry/exit structure s for all stations ; 
+(v) construction  of KMRL  staff quarters ; and (vi) implementation  of NMT works . 
+• Component 2 – Railway Systems  and Trains  (RS&T). This will support the 
+procurement , installation , and commissionin",Procurement,12
+17,17_2,"nstruction  of KMRL  staff quarters ; and (vi) implementation  of NMT works . 
+• Component 2 – Railway Systems  and Trains  (RS&T). This will support the 
+procurement , installation , and commissioning of systems, including (i) traction 
+and power supply facilities, as well as SCADA ; (ii) auxiliary main substation ; (iii) 
+electrical and mechanical (E&M) works ; (iv) telecommunications ; (v) security 
+control ; and (vi) AFC . This component will also finance the design, procurement, 
+installation , and commissioning of  (vii) lift(s), (viii) escalator(s) ; and (ix) the 
+procurement of 5 new trains . 
+• Component 3 – Design and Implementation Support . This will support the 
+procurement of  five consultancy assignments  in support  of project 
+implementation , including: the (i) GC, (ii) Detailed Design Consultants  (DDCs)  
+for the stations ; (iii) DDC for  the traction systems, (iv) proof consultants for power 
+supply and distribution systems, and (v) independent safety assessor.  
+E",Procurement,17
+17,17_3,"etailed Design Consultants  (DDCs)  
+for the stations ; (iii) DDC for  the traction systems, (iv) proof consultants for power 
+supply and distribution systems, and (v) independent safety assessor.  
+E. Cost and Financing Plan  
+19. Project’s Cost . The estimated cost of the project is USD229.88 million, with a 
+loan from AIIB of USD122.32 million, a GOI contribution of USD40.76 million, and a 
+GOK contribution of USD66.80 million.  
+20. Financing Plan . The Phase II financing structure will mirror the same approach 
+as that of Phase I. This will include public sector financing (from GOK and GOI), and an 
+official development assistance (ODA) loan (from AIIB) . In February 2023, a  tripartite 
+Memorandum of Understanding (MOU) was signed among GOI, GOK, and KMRL to 
+articulate, among others, the detailed financing terms, and mechanisms, as summarized 
+in the paragraphs and table below:  
+• The loan will be used to cover 82  percent  of the  contract amount for  item (i), 50 
+percent of ",Information Technology,5
+17,17_4,", the detailed financing terms, and mechanisms, as summarized 
+in the paragraphs and table below:  
+• The loan will be used to cover 82  percent  of the  contract amount for  item (i), 50 
+percent of the contract amount for item ( ii) and 73 percent of the contract amount 
+for item (iii) of Component  1; 49 percent of the contract amount for  Component 
+2; and the front -end fee.  
+• GOI’s and GOK ’s contributions58 will cover the remaining costs for the 3 
+proposed components  (except for the AFC) , the  land acquisition and 
+resettlement costs  (including compensations, livelihood restoration programs ), 
+ 
+ 
+57 For further details on these feature s, please refer to  the sections  4. E. and 4. F.  
+58 GOK will release funds for Phase II under the Major Infrastructure Development Project (MIDP) Fund 
+through re -appropriation basis as and when funds are solicited by KMRL based on capital budgeting 
+requirements.  GOI will release its portion based on the physical progress of works.",Finance,7
+18,18_1,"13 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+utility shifting, taxes , duties , the commitment fee,  and the interest during 
+construction  (IDC). 
+Table 1.  Project  Financing Plan  (USD million)  
+Item Total  GOI GOK  AIIB 
+Component 1 (CW)  148.75  22.33  18.12  108.30  
+Component 2 (RS&T)  60.47  18.43  28.33 13.71 
+Component 3  5.95 0.00 5.95 0.00 
+Land Acquisition & Resettlement  9.95 0.00 9.95 0.00 
+Front -end Fee  0.31 0.00 0.00 0.31 
+Commitment Fee  and IDC  4.45 0.00 4.45 0.00 
+Grand Total   229.88  40.76  66.80  122.32  
+Source:  KMRL . 
+• The project also includes a PPP element for the installation and operation of AFC, 
+which  is expected to be entirely implemented by the same private consortium 
+responsible for Phase I. This consortium is led by Axis Bank Ltd. (an Indian bank) 
+and includes ASIS Technologies Ltd. (a Turkish technological company) and 
+AGS Transact Technologies Ltd. (an India n IT firm). The contract was signed 
+between KMRL and Axis",Information Technology,9
+18,18_2,"nk Ltd. (an Indian bank) 
+and includes ASIS Technologies Ltd. (a Turkish technological company) and 
+AGS Transact Technologies Ltd. (an India n IT firm). The contract was signed 
+between KMRL and Axis Bank Ltd. on June 10, 2015 , for Phase I, and it is 
+expected to be expanded to also cover Phase II. The private consortium is 
+expected to cover the costs for the procurement and installation of the AFC 
+infrastructure for Phase II (approximately USD5.64 M).59  
+F. Implementation  Readiness  and Arrangements  
+21. Implementation Period. The project’s implementation period is expected to run 
+from Q 3 2024 to Q 4 2027.  
+22. Implementation Readiness.  The DPR for Phase II was prepared in  September 
+2014, subsequently revised  in September  2016 ,60 in February 2018 (to align  it with the 
+Metro Rail Policy of 2017 )61, and in January 2019  (to update the cost estimation and the 
+economic and financial analyses ). GOI approved the project tentatively in February 2019, 
+and finally in Nove",Project Management,7
+18,18_3,"tro Rail Policy of 2017 )61, and in January 2019  (to update the cost estimation and the 
+economic and financial analyses ). GOI approved the project tentatively in February 2019, 
+and finally in November 2022. The Housing and Urban Development Corporation 
+(HUDCO) has already provided  a loan to KMRL (guaranteed by GOK) of almost USD10 
+million for land acquisition . In 2023, GOI released  around  USD12 million , and GOK has 
+committed to  match th at contribution during the first half of 2024 to initiate the project’s 
+implementation . Approximately 83 percent of the land needed for road widening62 and 
+to construct the viaduct and 45  percent  of the land needed for the construction  of the 
+stations have been already acquired . It is expected that all the land will be taken over 
+by KMRL during the first half of 2024 . As of January 2024, 54 percent of the u tility shifting 
+work has been implemented and the balance is  expected to be completed by August 
+2024 . Five contracts  hav",Information Technology,5
+18,18_4,"RL during the first half of 2024 . As of January 2024, 54 percent of the u tility shifting 
+work has been implemented and the balance is  expected to be completed by August 
+2024 . Five contracts  have already been awarded  (and the related firms/contractors 
+ 
+ 
+59 For Phase I, the consortium also covers the  O&M  costs for 10 years , and, in compensation, it will receive 
+4 percent of the fare box revenues.  The same approach is expected to be followed for Phase II.  
+60 To align it with costing guidelines issued by MOHUA.  
+61 Ministry of Housing and Urban Affairs (MOHUA ); “Metro Rail Policy ”; 2017; (link). 
+62 About 6.15 k m of road widening is required, with 50 percent already completed  as of January 2024 .",Information Technology,5
+19,19_1,"14 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+mobilized) , including the GC (in July 2023) , the DDC for the stations (in April 2023 ) and 
+traction  (in May 2023 ), and the civil contractor  for the construction of the entry/exit 
+structure for SEZ and Kakkanad  stations  (in March 2023 ) and Chittethukara, Kinfra Park, 
+and I nfopark stations  (in October  2023 ), for which the civil works are ongoing . In 
+September  2023, KMRL invited tenders  (under advance procurement ) for the  largest 
+package  (around USD 118.4  million) , which corresponds to  the design and build contract 
+for the viaduct and the s tation main box . It is expected that t he contract will  be ready for 
+award by loan effectiveness . All these activities will contribute to achiev ing high project 
+readiness for implementation  and meeting GOI’s readiness criteria .  
+23. Implementation  Arrangements.  KMRL  will be the implementing entity  for the 
+Phase II . KMRL is a joint venture publi",Information Technology,7
+19,19_2,"ject 
+readiness for implementation  and meeting GOI’s readiness criteria .  
+23. Implementation  Arrangements.  KMRL  will be the implementing entity  for the 
+Phase II . KMRL is a joint venture public sector company of GOI (50 percent)  and G OK 
+(50 percent ), which  was established  in 2011  with a mandate to implement , operate , and 
+maintain the Kochi Metro Rail project (s) following the  orders of the Planning 
+Commission63 and G OI.  KMRL  has identified a team of key staff (headed by the current 
+Director Projects  {DP}) that will be  responsible for the day-to-day implementation of the 
+project . This team will include multi -disciplinary  staff representing , among others,  
+technical, procurement, environment al, social, financial management  (FM) , and 
+monitoring and evaluation (M&E) areas.  It will also include staff who were seconded to  
+Delhi  Metro Rail Corporation  (DMRC ) during the procurement and implementation of 
+Phase  I, so that the  technical know -how and l",Project Management,7
+19,19_3,"on (M&E) areas.  It will also include staff who were seconded to  
+Delhi  Metro Rail Corporation  (DMRC ) during the procurement and implementation of 
+Phase  I, so that the  technical know -how and lessons learnt will be capitalized .  KMRL 
+will also recruit additional staff/consultants , as and when required,  to work as part of th is 
+team . GC shall support KMRL  in the implementation of the project.  GOI and GOK  will 
+not only contribute to  funding the project, but they  will also support KMRL in obtaining 
+necessary approvals and clearances and meeting regulatory compliances  and providing 
+policy and regulatory support at central and state level s, respectively . In addition, 
+KMRL’s Board of Directors  (which includes  representatives from GOI , GOK  and KMRL ) 
+will conduct  quarterly  review meetings to  oversight  the imple mentation  progress . PIM 
+has been  prepared by KMRL64 to clearly describe the roles and responsibilities  of all the 
+agencies engaged during implem",Procurement,8
+19,19_4,"arterly  review meetings to  oversight  the imple mentation  progress . PIM 
+has been  prepared by KMRL64 to clearly describe the roles and responsibilities  of all the 
+agencies engaged during implementation  and the essential workflows for key project 
+activities .  
+24. Procurement  Arrangements . KMRL will be responsible for procuring  all the 
+packages under the project . KMRL has a team of experienced procurement staff and 
+will be supported by GC. A Technical Evaluation Committee  (TEC ) constituted within 
+KMRL , will evaluate the tenders . The AIIB’s Procurement Policy (January 2016, as 
+revised in June 2024 ) and the Directive on Procurement Instructions for Recipients (PIR) 
+(July 2024 ) will be followed for all the packages that will receive AIIB’s financing. The 
+contracts shall be procured following international open competitive tendering (IOCT)65 
+and national competitive tendering (NCT)66 as set out in sections 2.11.2 and 2.11 .5 of 
+the PIR , respectively . There will",Procurement,16
+19,19_5,"ll be procured following international open competitive tendering (IOCT)65 
+and national competitive tendering (NCT)66 as set out in sections 2.11.2 and 2.11 .5 of 
+the PIR , respectively . There will be no restriction on the source of providing the goods, 
+works , and services from any countries in the IOCT contracts , and domestic preference 
+or purchase preference shall not apply to IOCT.  
+ 
+ 
+63 This has been replaced by  the National Institute for Tran sforming India or  NITI Aayog. 
+64 PIM’s  approval  by AIIB  is expected  within 3 months from the loan’s signature date.  
+65 IOCT shall be followed for any works contract estimated to cost USD40 million or higher, and any goods 
+contract estimated to cost USD3 million or higher.  
+66 NCT tendering shall be followed for works contracts estimated to cost less than USD40 million, and any 
+goods contract estimated to cost less than USD3 million.",Legal & Compliance,5
+20,20_1,"15 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+25. FM Arrangements . KMRL will be responsible for the overall project FM and 
+disbursement s. The accrual basis accounting system will be followed for project 
+accounting. KMRL will maintain project accounts and have custody of supporting 
+documents. The project's financial progress will be reported quarterly through Interim 
+Unaudited Financial Reports (IUFRs) to be submitted within 45 days of each quarter's 
+end. KMRL will present the project's audited financial statements for each year of project 
+implementation within nine months following the  end of the  fiscal yea r.  
+26. E&S Monitoring and Supervision Arrangements. KMRL will be responsible 
+for the overall coordination, supervision, and monitoring of the project’s E&S aspects. 
+KMRL will establish an E&S team to manage E&S aspects associated with the design, 
+implementation, and monitoring of the project. KMRL will submit bi-annual  E&S 
+monitoring reports to",Information Technology,12
+20,20_2,"s E&S aspects. 
+KMRL will establish an E&S team to manage E&S aspects associated with the design, 
+implementation, and monitoring of the project. KMRL will submit bi-annual  E&S 
+monitoring reports to AIIB during implementation.67 KMRL will be required to engage an 
+independent third -party monitoring agency to verify project E&S compliance and report  
+to AIIB  every six months. The monitoring reports will be based on field reviews and 
+internal E&S monitoring reports prepared by KMRL with assistance from the GC and 
+contractors.  
+27. M&E  Arrangements . The project results will be monitored by KMRL  based on 
+RMF  describ ed in the Annex 1. During the implementation stage, KMRL will appoint , at 
+least,  one M&E Specialist , who will be responsible for prepar ing implementation 
+progress and performance reports on a semiannual basis. The progress reports will be 
+due within 30 days of each reporting period.  
+28. AIIB’s Implementation Support.  During the implementation stage, AIIB ",Project Management,11
+20,20_3,"s and performance reports on a semiannual basis. The progress reports will be 
+due within 30 days of each reporting period.  
+28. AIIB’s Implementation Support.  During the implementation stage, AIIB will 
+conduc t: (i) missions on a semiannual basis  to review the status of implementation 
+progress, any pertaining issues that may require management attention or any expected 
+material change ; (ii) several review meetings between missions; and (iii) further 
+technical site visits, when needed.  
+ 
+4. PROJECT  ASSESSMENT  
+A. Technical  
+29. Project Design.  Phase II will comprise an elevated  and electrified rail-based  
+mass transit system . This stretch will be 11.2 km long with 11 stations  spanning from 
+JLN Stadium to Smart City  corridor  via Kakkanad  in Kochi . Following is a description of 
+the rationale for choosing this technical solution and its key attributes : 
+• Ridership/Passenger Demand.  The proposed  project  intends to construct a 
+new metro line to reduce  the trav",Project Management,8
+20,20_4,"iption of 
+the rationale for choosing this technical solution and its key attributes : 
+• Ridership/Passenger Demand.  The proposed  project  intends to construct a 
+new metro line to reduce  the travel time for the increasing traffic  demand caused  
+by a fast-growing  employment hub  in Kakkanad , and the urban expansion  along  
+Phase II corridor . The ridership estimates for Phase II were initially established 
+ 
+ 
+67 These reports will capture, among others, the actual resettlement impacts and progress , and the 
+mechanisms and facilities set up by KMRL to assist project affected people  (PAP) in restoring the ir 
+livelihoods.",Project Management,3
+21,21_1,"16 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+in 2014 ,68 and were subsequently updated  in the DPR of 2018 .69 For the DPR 
+preparation, s everal  surveys, including classified traffic volume counts surveys, 
+origin -destination surveys, and speed  and delay surveys, were conducted in the 
+influence area . AIIB reviewed and updated  the estimated  ridership data  for 
+Phase II  to reflect that the operation is expected to start in 2027 (instead  of 2023  
+as per the DPR ) and consider the current performance  of Phase I .70 Ridership is 
+estimated to expand by 4.5 times over a 26 -year period beginning from 202771 
+(Table 2).  Since Phases I and II will operate concurrently, the operation  of Phase 
+II will have a noteworthy impact on the entire corridor as it will further complement 
+and influence the ridership of Phase I  (known as  the network effect ).  
+Table 2. Daily Project ed Average Ridership  for Phase II  (Number of Passengers)  
+2027  2048  2052  
+62,",Operations,4
+21,21_2,"urther complement 
+and influence the ridership of Phase I  (known as  the network effect ).  
+Table 2. Daily Project ed Average Ridership  for Phase II  (Number of Passengers)  
+2027  2048  2052  
+62,211  214,021  270,809  
+Source: AIIB P T based on the DPR  Revised, JLN Stadium – InfoPark via Kakkanad , February 2018 . 
+• Alignment . The first DPR  (September 2014)  evaluated  two options ,72 and the 
+alignment from JLN Stadium Station to Infopark via Kakkanad73 was deemed 
+more suitable due to several factors: (i) it is approximately 1 km shorter 
+compared to other alternatives , (ii) it serves densely congested areas such as 
+Palarivattom, Chembmukku, Vazhakaal, Padamughal, and (iii) it connects Phase  
+I at the midpoint of the Aluva -Petta corridor, which is advantageous from a train 
+operation perspective  (for further details, see the graphic  provided in the Annex 
+6). The alignment's geometrical design adheres to international practices used 
+in similar metro systems with a sta",Information Technology,6
+21,21_3,"operation perspective  (for further details, see the graphic  provided in the Annex 
+6). The alignment's geometrical design adheres to international practices used 
+in similar metro systems with a standard gauge of 1435  mm, considering a 
+maximum permissible speed of 80 km /h. The alignment features two parallel 
+lines, each in one direction, and will be equipped with ballast -less tracks .  
+• Stations.  Phase II will share the JLN Stadium Station with  Phase I, and both will 
+share the Muttom Depot . Phase II will have  the following eleven  stations : (i) 
+Palariv attom JN , (ii) Alinchuvadu , (iii) Chembumukku , (iv) Vazhakkala , (v) 
+Padamughal ; (vi) Kakkanad  JN, (vii) Kochin SEZ , (viii) Chittethukara , (ix) Kinfra,  
+(x) Infopark 1 , and (xi) Smart City . The station  location s were chosen to 
+effectively cater to the major passenger catchment areas and destinations and  
+facilitat e seamless integration with other transport modes. All the stations will be 
+elevated, having ",Information Technology,8
+21,21_4,"were chosen to 
+effectively cater to the major passenger catchment areas and destinations and  
+facilitat e seamless integration with other transport modes. All the stations will be 
+elevated, having  an average inter -station spacing  of 974 m, with platforms of 81  
+m suitable for 3 coach rakes. The platforms will be constructed in accordance 
+ 
+ 
+68 Using a CUBE model b y M/S RITES (a domestic consultancy firm) , the final ridership estimate was 
+submitted to KMRL in 2016  in the revised DPR . 
+69 By Urban Mass Transit Company Ltd. (UMTC) . This revision was required  to reflect the instructions of 
+the 2017  Metro Rail Policy.  
+70 The updated model considered (i) a trip rate of 2.1 for the base year and 2.5 for the horizon year ; (ii) an 
+annual growth rate s for the population and employment of 2.81 percent  and 2. 19 percent , respectively ; (iii) 
+an increase of mode  share  in favor of  public transport to 61 percent ; and (iv) the actual ridership of Phase 
+I, which  is lower",Information Technology,7
+21,21_5,"ployment of 2.81 percent  and 2. 19 percent , respectively ; (iii) 
+an increase of mode  share  in favor of  public transport to 61 percent ; and (iv) the actual ridership of Phase 
+I, which  is lower than e stimated in the respective DPR . Source of (ii) and (iii):  Urban Mass Transit Company 
+Limited for KMRL; “Draft Comprehensive Mobility Plan Report ”, 2023.  
+71 The DPR proposed 2023 as Phase II ’s opening year. This has been adjusted to be 2027 considering the 
+current project’s status.  
+72 The other option  was from the Kalamassery Station to Info park via Kakkanad . The section from Kakkanad 
+to Info Park is common in both the alternatives . Although it would requir e less land  acquisition due to wider 
+and open roads , it would have been longer by 1 km,  and would not serve  some  heavily populated area . 
+73 In the area of Kakkanad , the district headquarters and major residential , commercial , and industrial  hubs, 
+like Special Economic Zone (SEZ) , are located .",Information Technology,6
+22,22_1,"17 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+with Indian Green Building Council (IGBC) certification standards .74 Additionally , 
+the stations will be situated above the central median, with the rail level 
+positioned 12.5 m higher than the road level . All the stations will be equipped 
+with ticketing system having AFC gates, ticket and recharge counters, 
+passengers’ information system s, toilets , access control systems, auxiliary 
+substation , as well as passenger stairs, escalators,  and lifts . The stations will be  
+designed in an all -inclusive and accessible manner giving due consideration to 
+the gender, age, and health parameters of the commuters . 
+• RS&T . State -of-the-art railway systems will be implemented . To achieve a 
+headway of 90 seconds,  the project will implement  a CBTC system  for signaling 
+and train control . Other features will include Computer -Based Interlocking (CBI) 
+and Light Emitting Diode  (LED) fixed signals at interlocked s",Information Technology,12
+22,22_2,"project will implement  a CBTC system  for signaling 
+and train control . Other features will include Computer -Based Interlocking (CBI) 
+and Light Emitting Diode  (LED) fixed signals at interlocked stations for safer and 
+more efficient operation of train movements  at junctions, stations , and signaling 
+points . KMRL will use  Grade of Automation  (GOA) 2 technology (automatic train 
+operation {ATO} with drivers ), compatible with a  driverless mode  (GOA 3)  in the 
+future . For telecommunications, the project  will incorporate Fiber Optics -based 
+Data Transmission System (FOTS), Terrestrial Trunked R adio (TETRA ), CCTV,  
+Public Address System (PAS), PIDS, Master Clock Syste m (MCS) , and 
+Centralized Digital Recording System (CDRS) . The power supply system will be 
+monitored and controlled from a centralized Operation Control Center using a 
+cutting -edge  SCADA system with intelligent remote terminal units. The 
+implementation of rooftop solar panels under the Renewable Energ",Information Technology,14
+22,22_3,"ontrolled from a centralized Operation Control Center using a 
+cutting -edge  SCADA system with intelligent remote terminal units. The 
+implementation of rooftop solar panels under the Renewable Energy Service 
+Company (RESCO) model is also being considered . The proposed system will 
+incorporate a computer -based AFC system . Seven trains (21 coaches)  will be 
+needed to operate Phase II , with five of them to be provided  from Phase I and 
+the remaining two trains75 to be procured under the project (using GOK/GOI 
+funds).  The planned  rolling stock will have the electric regenerative braking 
+system , which will regain the maximum possible energy and pump it back to the 
+system . 
+• Interoperability  between Phase I and Phase II . To facilitate a seamless 
+integration between Phase I and II, some of the systems and trains to be utilized  
+in Phase II wil l be procured from the same vendor  that provided them  for Phase 
+I, following a single source selection process  (GOI/GOK  will ",Information Technology,12
+22,22_4,"d II, some of the systems and trains to be utilized  
+in Phase II wil l be procured from the same vendor  that provided them  for Phase 
+I, following a single source selection process  (GOI/GOK  will entirely fund these 
+packages  without AIIB’s contribution ). Similarly, as the same company will be 
+responsible for the AFC ’s implementation and operation for both phases,  the 
+system for Phase II will  be seamlessly compatible with the contactless smart 
+token/card type ticketing used in Phase I and the Water Metro.  
+• Intermodal Integration.  The design accounts for integration of feeder services 
+catering to key catchment areas, facilitating first- and last-mile connectivity . The 
+ 
+ 
+74 The certification  implies that the newly constructed infrastructure has taken deliberate measures toward 
+sustainable living and that it has met the required environmental standards set by the IGBC.  
+75 Five trains will be procured under the project with three of them to be deployed for  the ext",Information Technology,8
+22,22_5," toward 
+sustainable living and that it has met the required environmental standards set by the IGBC.  
+75 Five trains will be procured under the project with three of them to be deployed for  the extension of  Phase 
+I and the remaining two trains in Phase II.",Operations,2
+23,23_1,"18 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+services include  the feeder bus system ,76 the Water Metro ,77 IPT,78 and the 
+public bicycle .79 As mentioned above , the metro service w ill additionally offer 
+connectivity to the proposed Kerala Semi High Speed  (Thiruvananthapuram to 
+Kasaragod , named as silver line ) near Infopark . Several criteria were considered 
+for integrating these services , including the positioning and reach of the stations, 
+the availability of various ways of access and dispersal, the duration and 
+destination of trips, the presence of footpaths and pedestrian facilities, the 
+location of bus stops, and the provision of par king and pick -up/drop -off sites.  
+• TOD . KMRL has  prepared a TOD Action  Plan to achieve  a compact, dense , and 
+diverse development along the metro corridor in Kochi. The Plan  has an 
+emphasis on promoting walkability , cyclability, public transport, and multi -modal 
+integration to  enable people to live,",Information Technology,10
+23,23_2,"nd 
+diverse development along the metro corridor in Kochi. The Plan  has an 
+emphasis on promoting walkability , cyclability, public transport, and multi -modal 
+integration to  enable people to live, work, and recreate in closer proximity to the 
+metro corridor.  The Plan proposes  a comprehensive implementation strategy , 
+including the identification of potential public/semi -public sites for re-
+development  for increased densification .80 This Plan, along with the related  
+Value Capture Financing  (VCF) proposal,  is under consideration by GOK .81 
+• Barrier -free Design . Kochi Metro is purposefully designed to eliminate 
+obstacles in stations, accesses, and trains, providing easy  access for individuals 
+with physical or sensory disabilities, as well as other vulnerable groups. This 
+includes the elderly, children, pregnant individuals, PWD , and those who are sick 
+or injured, ensuring a safe and easy experience within the system . 
+• Depo t. Muttom Depot, currently being used",Information Technology,9
+23,23_3,"s 
+includes the elderly, children, pregnant individuals, PWD , and those who are sick 
+or injured, ensuring a safe and easy experience within the system . 
+• Depo t. Muttom Depot, currently being used for Phase  I, has sufficient capacity 
+to accommodate the additional  trains for Phase II operation and, hence, it is 
+proposed to be also utilized for the trains of Phase  II.  
+30. Operational Sustainability.  KMR L is responsible for cover ing the expenditures 
+for O&M  for Phase I and Phase II . The deployment of the same systems and rolling 
+stock for Phase I and Phase II will contribute to lower O&M costs . KMRLs' efforts to 
+generate non -fare box revenue  for Phase I  (e.g., station area rental, product advertising, 
+name rights, poster display) are outstanding, as evidenced by the fact that non -fare box 
+revenue accounted for approximately  30-35 percent  of overall income in FY2022 -23 and 
+FY2023 -24.82 KMRL is also attempting to expand the ridership by providing innovative 
+f",Information Technology,8
+23,23_4,"ct that non -fare box 
+revenue accounted for approximately  30-35 percent  of overall income in FY2022 -23 and 
+FY2023 -24.82 KMRL is also attempting to expand the ridership by providing innovative 
+fare schemes and products .83 All these initiatives have been adopte d to make the 
+operation of Phase I  sustainable  and will be also implemented for Phase II .  Phase I 
+could be considered a healthy set -up as  its operation generate s a surplus  (most of the 
+ 
+ 
+76 KMRL has already provided  four e -buses to connect the Aluva  Metro Station  with the Kochi International 
+Airport , and two other e -buses between Kalamassery Metro Station and other major traffic generation points .  
+77 This mode will be integrated with Phase II through  the jetties of  Kakkanad and Infopark . 
+78 105 e-autos will be added to the feeder fleet (already purchased) . For Phase I, 15 charging points for 
+electric vehicles  have been made available at Aluva, Edapally, Kaloor, Kalamassery and Vyttila .  
+79 K",Operations,4
+23,23_5,"os will be added to the feeder fleet (already purchased) . For Phase I, 15 charging points for 
+electric vehicles  have been made available at Aluva, Edapally, Kaloor, Kalamassery and Vyttila .  
+79 KMRL has constructed 2.8 km of dedicated cycle track and launched 400 public cycles all over the metro 
+stations  and major points of Kochi , through subscription -based  rentals using  MyByk app  (for further details, 
+see this link). On an average , around 500 trips are being made  each day using this system . KMRL has 
+allowed passengers to carry bicycle inside the train as well.  
+80 The implementation strategy has been firstly prepared for Phase I and subsequently, it is expected to be 
+expanded to also cover Phase II.  
+81 The request was submitted by KMRL to  the Transport Department of  GOK in May 2023 (the letter 
+reference  is KMRL/FIN/VCF/2023 -24/262 ). 
+82 32.35 percent for FY2022 -23 and 29.50 percent for FY2023 -24 (till November 2023). Source: KMRL.   
+83 For example, flexi ",Procurement,3
+23,23_6," GOK in May 2023 (the letter 
+reference  is KMRL/FIN/VCF/2023 -24/262 ). 
+82 32.35 percent for FY2022 -23 and 29.50 percent for FY2023 -24 (till November 2023). Source: KMRL.   
+83 For example, flexi fare, student pass, vidya pass, and group booking.",General,0
+24,24_1,"19 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+metro systems worldwide do not even cover operational costs ). However , due to the  
+payment of  construction loan’s interest and the assets ’ depreciation , there is a  deficit, 
+which is covered by GOK.  To reduce GOK’s financial burden, KMRL intends to 
+implement a number of  TOD actions ,84 which could  generate  a total potential revenue  
+of approximately  USD2.3 billion85 along the Phase I corridor  and USD 0.5 billion along 
+the Phase II corridor ,86 The implementation of these actions  is pending of GOK’s 
+approval.  However, in case KMRL fails  to meet the O&M expense s, GOK  is expected to  
+cover the potential deficit . For Phase II,  this is established in the above -mentioned 
+tripartite MOU signed among GOI, GOK , and KMRL . 87 
+B. Economic and Financial Analysis  
+31. Economic Analysis . Phase II is deemed economically viable , with the economic 
+internal rate of return (EIRR) and economic n et present",Finance,5
+24,24_2,", GOK , and KMRL . 87 
+B. Economic and Financial Analysis  
+31. Economic Analysis . Phase II is deemed economically viable , with the economic 
+internal rate of return (EIRR) and economic n et present value ( ENPV) estimated to be 
+15.25 percent and USD 220 million, respectively .88 The economic analysis was 
+undertaken at constant prices and  took into account both the ""without project"" and ""with 
+project"" scenarios over a 30 -year period (4 years of construction and 26 years of 
+operation ). The project's quantifiable benefits will accrue from : (i) travel time savings  
+(85.69 percent) , (ii) reduction in vehicle operation cost (VOC ) (8.01 percent ), (iii) saving s 
+from accident reductions  (0.43 percent) ; (iv) savings from emission  reduction  (2.10 
+percent) ; (v) savings due to reduced road stress  (1.41 percent)  and (vi) the residual 
+value  (2.36 percent ). The economic costs include infrastructure capital costs, O&M costs, 
+and capital replacement costs .89 A sensitivity a",Information Technology,8
+24,24_3,"duced road stress  (1.41 percent)  and (vi) the residual 
+value  (2.36 percent ). The economic costs include infrastructure capital costs, O&M costs, 
+and capital replacement costs .89 A sensitivity analysis has been conducted by (i) 
+increasing up to 25 percent  in costs ; (ii) decreasing up to 25 percent in benefits; (iii) 
+reducing up to 25 percent in ridership, and (iv) combined increasing 25 percent in cost 
+and decreasing 25 percent in benefits . In all the scenarios, the project is  still 
+economically v iable . For further details, see Annex 2 . 
+32. Financial Analysis . To evaluate the financial results of Phase II, two types of 
+revenue generation (fare box revenue and non -fare box revenue) were considered as 
+inflows (positive cash flows), whereas  the investment (including taxes, escalation , 
+interest fees, and contingencies90) and operating costs were considered as outflows 
+(negative cash flows).  Farebox revenue was calculated based on passenger -km for the 
+specified ",Finance,8
+24,24_4,"es, escalation , 
+interest fees, and contingencies90) and operating costs were considered as outflows 
+(negative cash flows).  Farebox revenue was calculated based on passenger -km for the 
+specified segment by calculating the average fare per passenger -km and factoring in 
+future fare increases.91 Non-fare box revenue from all the sources is estimated to be  
+approximately  19.5 percent92 of the total revenue . Staff salaries, energy prices, and 
+repair and maintenance costs have all been considered  when calculating O&M costs . 
+ 
+ 
+84 They include various VCF mechanisms such as (i) a property value (i.e., the fair value) increase around 
+the metro stations, which would increase the collection from the stamp duty/registration charges; (ii) a luxury 
+tax to be levied on buildings with a plinth area larger than 278.90 m2; and (iii) a one -time development 
+charge for new buildings constructed on the metro corridor.  
+85 National Transportation Planning and Research Centre and Urban Ma",Finance,4
+24,24_5,"plinth area larger than 278.90 m2; and (iii) a one -time development 
+charge for new buildings constructed on the metro corridor.  
+85 National Transportation Planning and Research Centre and Urban Mass Transit Company Limited for 
+KMRL ; “Transit Oriented Development Action Plan for Kochi: Revenue Estimation and Implementation 
+Report” . 
+86 DPR Revised, JLN Stadium – InfoPark via Kakkanad, February 2018.  
+87 This is stated in the paragraph (D) (vii) (b) of the 2017 Metro Rail Policy and in the MOU  mentioned above . 
+88 Considering a discount rate of 9 percent.  
+89 For equipment (electrical, rolling stock and signaling and telecom ) added during the operation period.  
+90 Excluding land and the PPP element.  
+91 An increase of 5.6  percent  annually was considered based on the average inflation rate of the last decade . 
+92 Sources include station naming rights, advertising rights, rentals in the station area (kiosks and 
+Automated Teller Machine { ATM } terminals), and property de",Operations,3
+24,24_6,"inflation rate of the last decade . 
+92 Sources include station naming rights, advertising rights, rentals in the station area (kiosks and 
+Automated Teller Machine { ATM } terminals), and property development at the metro station.",Operations,3
+25,25_1,"20 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+The replacement cost s took into account the expense of additional rolling stock and the 
+replacement of electrical and  signaling and telecom  assets.  Based on all these  
+assumptions and  considering the financing model  of Phase I ,93 the financial analysis 
+indicates that the financial internal rate of return is 4.98 percent for Phase II . This 
+evaluation covers a 26 -year cash flow projection, with a 4-year construction phase.  
+Annex 2 provides further  details.  
+C. Fiduciary and Governance  
+33. Procurement . Based o n the  assessment of KMRL's procurement capacity  
+conducted by AIIB , it was found that KMRL has experience with bilateral agenci es but 
+limited with MDBs . KMRL has prepare d a Project Delivery Strategy (PDS) , along with 
+the Procurement Plan (PP). The PDS outlines details of procurement arrangements, 
+including capacity assessment, tendering , and contracting strategies, assessment of 
+opera",Procurement,9
+25,25_2,"rategy (PDS) , along with 
+the Procurement Plan (PP). The PDS outlines details of procurement arrangements, 
+including capacity assessment, tendering , and contracting strategies, assessment of 
+operational factors affecting procurement, supply market assessment, procurement 
+risks, proposed mitigation measures , and prior review thresholds for the project .94  
+Based on the outcome of the overall assessment of the procurement process, the 
+procurement risk is assessed as “medium”. All contract packages for AIIB -financed 
+activities under the project will be procured , based on the Bank‘s standard procurement 
+documents,  using the G OK’s e-tendering portal , which can facilitate  efficiency, economy , 
+and transparency . The portal  has been designed, developed , and hosted by the GOI’s 
+National Informatics Centre (NIC) . E-tendering portals  designed and developed by NIC  
+for various borrowers  are being used by MDBs .  
+34. Financial Management . The FM assessment (conducted duri",Procurement,22
+25,25_3,"
+National Informatics Centre (NIC) . E-tendering portals  designed and developed by NIC  
+for various borrowers  are being used by MDBs .  
+34. Financial Management . The FM assessment (conducted during the appraisal 
+stage ) cover ed the system of accounting, budgeting, the flow of funds, financial reporting, 
+auditing, and internal controls at KMRL. Based on the results of the assessment, the 
+residual FM risk is  considered “medium ”. The following measures were  agreed  upon 
+between KMRL and AIIB : (i) PIM  should include  FM chapters ;95 (ii) KMRL will include 
+the audit of the AIIB -funded contracts  in the scope of the regular audit exercise  of its 
+current internal auditor ;96 and ( iii) KMRL’s finance team will work closely with the Bank 
+to prepare  the first IUFR and the Statement of Expenditure (SOE) before obtaining 
+approvals from KMRL ’s management.  
+35. KMRL has a Finance and Accounts Department (FAD) staffed with 13 people at 
+different levels. Almost all of them ar",Information Technology,9
+25,25_4,"ment of Expenditure (SOE) before obtaining 
+approvals from KMRL ’s management.  
+35. KMRL has a Finance and Accounts Department (FAD) staffed with 13 people at 
+different levels. Almost all of them are qualified chartered and cost accountants. KMRL 
+has confirmed that it will assign three of its senior -level finance staff to implement the 
+project's financial aspects.  
+36. The KMRL’s finance team prepares the annual budget with the executing 
+departments. The Board of Directors approves the budget. The budget execution is 
+recorded in the Management Information System (MIS), and monthly reports are 
+ 
+ 
+93 For further details, please refer to Financing Plan provided in the Section 3. E.  
+94 All works contracts costing USD15 million or above and goods contract costing USD4 million or above 
+shall be subject to the Bank’s prior review.  
+95This will address administrative procedures and processes for project implementation, including 
+definitions of responsibilities for annual and int",Information Technology,8
+25,25_5,"ve 
+shall be subject to the Bank’s prior review.  
+95This will address administrative procedures and processes for project implementation, including 
+definitions of responsibilities for annual and interim financial reporting and management of funds.  
+96 KMRL does not have a specific audit unit, but it recruited a chartered accountant firm to provide internal 
+audit service. The auditor prepares quarterly internal audit reports.",Information Technology,9
+26,26_1,"21 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+generated. In addition, a note on budget versus actual figures is prepared. KMRL has 
+confirmed that a similar approach will be applied to prepare the proposed project budget.  
+37. KMRL uses the  System Applications and Products in Data Processing  (SAP) 
+Entity Relationship Diagram  (ERP) for its accounting. All purchase orders and vendor 
+payments are run through SAP. A dedicated internal team is available for maintenance 
+and minor modifications of the accounting program. A separate firm is onboarded for 
+performing major configurations, change requests , and modifications in SAP. There are 
+daily backups of accounting records. KMRL has confirmed that the SAP ERP w ill also 
+be used for Phase  II. Accounting records will be kept in KMRL and stored for at least 
+eight years per the Income Tax Act and the internal documentation retention policy. 
+KMRL has its developed Chart of Accounts, and it will be used for the p",Information Technology,9
+26,26_2,"ll be kept in KMRL and stored for at least 
+eight years per the Income Tax Act and the internal documentation retention policy. 
+KMRL has its developed Chart of Accounts, and it will be used for the project’s purpose 
+with some modifications to reflect disbursement categories, project components, and 
+sources of financing.  
+38. KMRL also uses the SAP ERP to produce the financial reports following Indian 
+Accounting Standards (IND AS). The SAP ERP does not support the generation of 
+project -specific financial reports like IUFR and annual Project Financial Statements 
+(PFS). Therefore, KMRL will use the information from SAP’s generated reports and fill 
+out the Excel version of IUFR and PFS, which shall be presented in English.  
+39. For project purposes, KMRL will engage the CAG’s appointed  chartered 
+accountant’s  firm to conduct the external audit of the P FS in accordance with Section 
+5.09 of the General Conditions,  and following Standards on Auditing (SAs) as 
+recommended by th",Procurement,9
+26,26_3,"ed  chartered 
+accountant’s  firm to conduct the external audit of the P FS in accordance with Section 
+5.09 of the General Conditions,  and following Standards on Auditing (SAs) as 
+recommended by the Institute of Chartered Accountants of India (ICAI). KMRL will 
+furnish audited financial statements (and any accompanying Management Letter) to 
+AIIB no later than nine months after the end of each fiscal year . 
+40. Disbursements.  AIIB will handle all project disbursements according to its 
+disbursement procedures. Disbursements will follow the transaction -based method and 
+comprise  the advance, direct payment , and reimbursement procedure s, including 
+reimbursements under the retroactive financing procedure. Further details will be 
+described in the Disbursement Letter.  The withdrawal applications will be reviewed and 
+approved by t he Aid, Accounts , and Audit Division, headed by the Controller of Aid, 
+Accounts and Audit (CAAA), which is the division within the Department of Eco",Information Technology,12
+26,26_4," applications will be reviewed and 
+approved by t he Aid, Accounts , and Audit Division, headed by the Controller of Aid, 
+Accounts and Audit (CAAA), which is the division within the Department of Economic 
+Affairs  (DEA) , Ministry of Finance (MOF),  entrusted with the responsibility for the 
+withdrawal of the loan proceeds for all the funds provided by ODA  where India is the 
+recipient. A Designated Account (DA) to receive advance funds from AIIB will be 
+established in USD and will be opened by M OF and CAAA will manage it. To facilitate 
+the payments in local currency, KMRL will open a separate bank account for the loan in 
+the local currency in its current commercial bank. For retroactive financing,97 all eligible 
+expenditures under the project incurred in compliance with  the agreed procurement 
+procedures98 and in respect of which payment s were  made no earlier than 18 months 
+before the date of the loan agreement  can be claimed from AIIB. This will be restricted 
+ 
+ 
+97 Ret",Information Technology,12
+26,26_5,"d procurement 
+procedures98 and in respect of which payment s were  made no earlier than 18 months 
+before the date of the loan agreement  can be claimed from AIIB. This will be restricted 
+ 
+ 
+97 Retroactive financing is expected to be needed to cover the advance payment of a number of contracts 
+and other items  under the largest contract ( design and build for the viaduct and the station main box ), which 
+are expected to be implemented from the beginning of the project in 2023 to the loan’s signature date.  
+98 The activities to be retroactively financed must be also aligned with the Bank’s Environmental and Social 
+Policy ( ESP).",Finance,4
+27,27_1,"22 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+to 30 percent of the AIIB loan’s amount . KMRL will prepare and submit a withdrawal 
+application to AIIB indicating the bank account to receive retroactive funds (which will 
+not be the same as DA). 
+41. Governance and Anti -corruption.  AIIB is committed to preventing fraud and 
+corruption in its funded initiatives. It gives the utmost importance to ensuring that AIIB -
+funded projects are carried out in precise accordance with the 2016 Policy on Prohibited 
+Practices. Staff from the AIIB wil l regularly oversee its implementation.  AIIB reserves 
+the right to investigate, directly or indirectly through its agents, any alleged corrupt, 
+fraudulent, collusive, coercive , or obstructive practices, and misuse of resources and 
+theft relating to the project and to take necessary measures to prevent and address any 
+issues in a timely manner, as appropriate. AIIB will also oversee activities related to the 
+preparation of ",Information Technology,12
+27,27_2,"d 
+theft relating to the project and to take necessary measures to prevent and address any 
+issues in a timely manner, as appropriate. AIIB will also oversee activities related to the 
+preparation of tender  documents and the evaluation of tenders/proposals under AIIB 
+financing. The specific requirements pertaining to these measures will be outlined in the 
+Loan and Project Agreement s and the project's tender documents.  
+42. AIIB's Know Your Counterparty (KYC) initial assessment revealed that neither 
+KMRL nor GOK/GOI, were subject to any adverse news reports. India's score on the 
+Transparency International Corruption Perception Index scale for the past five years 
+(2018 -2022) i s approximately 40 out of a possible 100, with lower scores denoting  
+greater levels of corruption.99 In the World Bank’s Worldwide Governance Indicators on 
+Control of Corruption scale, India’s Governance between (2016 and 2021) has ranged 
+between -0.31 and -0.29 with the scale ranging from -2.5 (weak) ",Procurement,6
+27,27_3,"he World Bank’s Worldwide Governance Indicators on 
+Control of Corruption scale, India’s Governance between (2016 and 2021) has ranged 
+between -0.31 and -0.29 with the scale ranging from -2.5 (weak) to 2.5 (stable).100  
+D. Environmental and Social  
+43. E&S Policy (including Standards) and Categorization. AIIB’s ESP, including 
+the Environment and Social Standards (ESSs) and the Environmental and Social 
+Exclusion List, will apply to AIIB-financed activities under the  project.  ESS 1 
+(Environmental and Social Assessment and Management) and ESS 2 (Involuntary 
+Resettlement) are applicable to the project. The project has been categorized  as “A” 
+based on the E&S impacts due to civil works in a densely urbanized environment, land 
+acquisition, occupational health and safety (OHS), vehicular traffic, pollution, dust, noise,  
+and vibration anticipated in and around the project ’s footprint.  
+44. Instruments.  Metro projects in India do not require statutory environmental 
+clearances ",Project Management,5
+27,27_4,"lar traffic, pollution, dust, noise,  
+and vibration anticipated in and around the project ’s footprint.  
+44. Instruments.  Metro projects in India do not require statutory environmental 
+clearances as per national laws. An EIA report , including  an Environmental 
+Management Plan (EMP) , was prepared in January 2020 to meet the safeguards  
+requirements  of potential  IFI lenders . In compliance with  the GOI and GOK  Land 
+Acquisition, Rehabilitation and Resettlement ( LARR ) policies , and after conducting 
+statutory public hearings and establishing cut -off dates, four social impact assessment 
+(SIAs)/resettlement plan s (RPs),101 covering the project areas , were  prepared and 
+approved by the competent authority of GOK  to facilitate the land acquisition. Based on 
+the review of the existing instruments, progress of land acquisition and assessments of 
+KMRL’s  capacities , it was found that the prepared instruments  adequately address the 
+ 
+ 
+99 Transparency International; “ Co",Information Technology,9
+27,27_5," existing instruments, progress of land acquisition and assessments of 
+KMRL’s  capacities , it was found that the prepared instruments  adequately address the 
+ 
+ 
+99 Transparency International; “ Corruption  Perceptions Index ; India ”; 2022; ( link). 
+100 Worldwide Governance Indicator ( link). 
+101 (i) SIA for Ernakulam - Kakkanad village, (ii) SIA for Ernakulam - Edappally South & Vazhakkala villages, 
+(iii) SIA for  land acquisition  for the construction of the s tations, and (iv) SIA for land acquisition  for widening 
+of Public Works Department ( PWD ) road.",Information Technology,5
+28,28_1,"23 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+project risks and impacts, consultations, and management approaches, albeit with minor 
+gaps  mainly in the areas of  noise and vibration studies, climate assessments, and 
+livelihood support  to eligible PAP . To further align them with AIIB E&S requirements, 
+KMRL prepare d (i) an EDDR for the EIA (including additional chapters to cover  climate 
+change , noise and vibration, institutional arrangements, and mitigation plans) , and  (ii) a 
+Social Due Diligence Report (SDDR) for the social aspects . EDDR and SDDR include 
+respective action plans.  The E&S instruments  prepared are aligned with AIIB’s ESP.  
+45. Stakeholder Engagement, Consultation, and Information Disclosure. 
+During EIA , SIAs/RPs, EDDR and SDDR preparation , KMRL/ GOK  consulted PAP. The 
+statutory process of SIA requires extensive consultation at various levels, including a 
+mandatory public consultation. These processes and proceedings are documen",Information Technology,7
+28,28_2,"ion , KMRL/ GOK  consulted PAP. The 
+statutory process of SIA requires extensive consultation at various levels, including a 
+mandatory public consultation. These processes and proceedings are documented in 
+the SIA reports . The consultations will continue during project implementation.  SIAs /RPs  
+are disclosed on the website of the Ernakulam District .102 In addition, for Phase II , EIA, 
+SIAs/RPs , EDDR, SDDR (in English with summaries in Malayalam)  are also disclosed 
+on KMRL’s and AIIB ’s websites.  
+46. Environmental Aspects. The project will yield environmental benefits, notably 
+reducing air pollution from traffic congestion . There is no forest area or notified eco -
+sensitive zone within 500 m of the proposed  Right -of-Way (ROW). No wildlife habitat or 
+notified eco -sensitive zone under Wildlife Act of 1972 is present within the 10 km radius 
+area of proposed R OW, except  for the  Managlavanam Bird Sanctuary , which is present 
+at 3 km from the JLN Station. The project ",Information Technology,10
+28,28_3,"e zone under Wildlife Act of 1972 is present within the 10 km radius 
+area of proposed R OW, except  for the  Managlavanam Bird Sanctuary , which is present 
+at 3 km from the JLN Station. The project activities are assessed to have no adverse 
+risks and impacts on the Sanctuary, as i t is already surrounded by extensive urban 
+activity and the construction or operation stages of the project will not lead to additional 
+negative impact. The construction activities on site will likely result in the loss of 669 
+trees , which will be mitigated through  1:10 compensatory  planting and other measures 
+set out in the EDDR. During the construction phase, other negative impacts of the project 
+will be temporary and reversible, including air pollution and the disposal of construction 
+residues, which will be addressed as per EMP. Given that the initial EIA lac ked a 
+vibration assessment as well as quantified noise during construction and operation, 
+these studies  were undertaken as part of ED",Information Technology,8
+28,28_4,"ch will be addressed as per EMP. Given that the initial EIA lac ked a 
+vibration assessment as well as quantified noise during construction and operation, 
+these studies  were undertaken as part of EDDR . To enhance  the viability of the noise 
+assessment  (given  that the EIA ’s baseline was undertaken in June 2019 ), further noise 
+baseline  sampling was carried out  in November  2023 . The cumulative noise and 
+vibration assessment found no significant impact along the alignment both in 
+construction and operational phase s, with representative sensitive receivers  considered  
+for the assessment . A set of measures  to mitigate and minimize the noise and vibration 
+impacts  was proposed , integrated into the designs , and considered in the financing plan . 
+They  may be subject to change after the contractor ’s assessment and implantation of 
+the contractors ’ Environmental and Social Management Plan (CESMP ),103 when the 
+exact construction methodology and any minor alignment chan",Information Technology,6
+28,28_5,"ge after the contractor ’s assessment and implantation of 
+the contractors ’ Environmental and Social Management Plan (CESMP ),103 when the 
+exact construction methodology and any minor alignment changes will be  known. 
+Contractors' scope will include implementing noise and vibration mitigation measures 
+during construction as well as  the implementation of identified measures for additional 
+ 
+ 
+102 The documents are available on this link. 
+103 To address the potential future noise and vibration risks, relevant actions will be added to the CESMP, 
+and an appropriate noise monitoring plan will be in place. Furthermore, t he environmental action plan 
+prepared as part of the EDDR set out various further studies that need to be completed by the contractor, 
+including additional noise assessment during the preparation of the DEDs to further assess the need for 
+mitigation measures, such as noise barriers for specific locations.",Information Technology,6
+29,29_1,"24 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+receptors. A traffic management plan has already been developed in collaboration with 
+the Police and the M otor Vehicles Department. This has been communicated to the 
+District Collector and Commissioner of Police in August 2023 to facilitate eas ing of traffic 
+during  the construction phase.  
+47. Social Aspects. The project's design predominantly aligns with the existing road 
+medians to minimize the acquisition of private and public lands. The ROW required is 
+22 m (if the  metro alignment  is running along the existing road ) and 16.5 m (when it is 
+off the existing road ). Land acquisition at certain locations is required for the purposes 
+of ROW  (6.15 Km out of 11.2 Km, 50 percent widened so far) , including the off the road 
+viaduct portion and to construct the entry and exit buildings for accessing the elevated 
+metro stations. The land acquisition  is being carried out in four stages  for a total area of 
+4",Information Technology,8
+29,29_2,"ff the road 
+viaduct portion and to construct the entry and exit buildings for accessing the elevated 
+metro stations. The land acquisition  is being carried out in four stages  for a total area of 
+4.05 Ha , which is linearly distributed across the 11.2 km length in multiple parcels . The 
+due diligence  concluded that the process was well publicized  and the PAPs as well as 
+communities are well aware of th e project, entitlements and grievance channels. About 
+50 percent of the total land acquisition is completed ,104 and the remaining land  is 
+expected to be acquired  during the first half of 2024.  There is sufficient land available to 
+initiate  project works.  The rehabilitation and resettlement (R&R) compensation is based 
+on the R&R policy of GOK  (2017) , which entails 15 mutually exclusive compensations , 
+and aligned with AIIB’s ESP . R&R packages are declared for two stretches and fully 
+disbursed to one stretch.  In the SDDR,  the compensations paid  were assessed  and i",Information Technology,8
+29,29_3,"ly exclusive compensations , 
+and aligned with AIIB’s ESP . R&R packages are declared for two stretches and fully 
+disbursed to one stretch.  In the SDDR,  the compensations paid  were assessed  and it 
+was concluded that the process to determine the market value , valuation  of assets  
+(including trees ), calculating the final award value are carried out  transparently and 
+according to the relevant policies  and as such meet s the replacement cost principle for 
+land as well as assets.105 The due diligence identified 16 action points regarding social 
+aspects , including requesting the government for indexation o f R&R compensation , 
+gender, labor and working conditions, livelihoods, ongoing monitoring and supervision , 
+and an action plan was agreed. A livelihoods support plan is included in the SDDR, 
+which will be further enhanced based on the additional needs identified during 
+implementation.  KMRL will mobilize budget for implementation of the plan.  The ongoing 
+process will",Information Technology,5
+29,29_4,"uded in the SDDR, 
+which will be further enhanced based on the additional needs identified during 
+implementation.  KMRL will mobilize budget for implementation of the plan.  The ongoing 
+process will be closely monitored by PT.    
+ 
+48. Community, OHS, Labor and Employment Conditions. KMRL will stipulate 
+and monitor adequate health and safety measures for the workers, and tendering 
+documents include requirements on how contractors will address health and safety 
+issues . KMRL will also require contractors for civil works to comply with all applicable 
+labor laws and regulations. EDDR include s OHS provisions as well as templates for the 
+OHS Management. Impacts and risks associated with migrant labor influx are assessed 
+to be low. However,  KMRL will require contractors to implement and enforce workers’ 
+codes of conduct to mitigate gender -based violence (GBV) - and sexual exploitation , 
+abuse  and harassment  (SEA H)-related risks that may arise. As the project ’s works will 
+b",Information Technology,9
+29,29_5,"nd enforce workers’ 
+codes of conduct to mitigate gender -based violence (GBV) - and sexual exploitation , 
+abuse  and harassment  (SEA H)-related risks that may arise. As the project ’s works will 
+be implemented in dense urban areas, and in proximity to residential properties, 
+ 
+ 
+104 The land acquisition progress for the four sections is as follows: (i) Palarivattam to Kakkanad  (2.01 Ha): 
+it is fully completed in all respects and impacted 353 titleholder PAPs and 84 PAPs eligible for R&R ; (ii) JLN 
+stadium to Palarivattam  (0.36 Ha): it  is nearing completion , with 59 title holder PAPs and 24 PAPs eligible 
+for R&R ; (iii) Kakkanad to Info Park Expressway Entrance  (0.01 Ha): it is in advanced stage, with no PAPs 
+eligible for R&R ; and (iv)  entry exit at station buildings (1.65 Ha): it is in early stages.  
+105 There are a number of  pending court cases (most of them, pertaining to  enhancement of compensation) , 
+which are expected to no t significantly jeopardize land acqui",Information Technology,13
+29,29_6,"a): it is in early stages.  
+105 There are a number of  pending court cases (most of them, pertaining to  enhancement of compensation) , 
+which are expected to no t significantly jeopardize land acquisition.  For further details, see SDDR.",Information Technology,2
+30,30_1,"25 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+measures focused on traffic management, community health and safety  will be also 
+implemented . Contractors will be required to submit site -specific  Community Health and 
+OHS Management Plan for review and approval by KMRL before works commencement . 
+ 
+49. Grievance Redress Mechanism (GRM).  PT reviewed the existing customer 
+care, grievance channels and management processes at KMRL. KMRL already has 
+several channels for grievance/feedback submission including  (i) a toll-free helpline, (ii) 
+written feedback forms (available at station s’ customer cares ), (iii) an e mail, (iv) a 
+WhatsApp chat bot, (v) social media channels , (vi) station controller (SCR) mobiles, and 
+(vii) Metro Promo Center.  KMRL has an established escalation process for addressing 
+complaints received from these channels. For  instance, for Phase 1B works, the 
+construction -related grievances are received at  the field/site office.  These ",Information Technology,6
+30,30_2,"hed escalation process for addressing 
+complaints received from these channels. For  instance, for Phase 1B works, the 
+construction -related grievances are received at  the field/site office.  These complaints 
+are then examined by a technical team comprising KMRL Field Officer (Deputy General 
+Manager rank ), the Project Management Consultant  (PMC ) and the contractor. If the 
+complaint is not resolved at the field level, it is escalated to the General Manager 
+(Projects) , who  will examine the complaint and will provide a suitable resolution. For 
+Phase II, the GRM is already functioning  with a similar structure, which has been  further 
+strengthened by taking into account the lessons learnt  from Phase I . A dedicated 
+grievance form has been  already made available for  Phase II  on KM RL’s website ,106 
+and these grievances  are being handled by respective designated officials and the 
+resolution  feedback  is/will be  provided through the website/direct communication . With 
+",Information Technology,7
+30,30_3,"n KM RL’s website ,106 
+and these grievances  are being handled by respective designated officials and the 
+resolution  feedback  is/will be  provided through the website/direct communication . With 
+these additional measures , the GRM is found to be meeting AIIB ’s requirements , 
+including submission of grievances  anonymously , work place’s  concerns,  and worker s’ 
+concerns . All the land acquisition and compensation -related grievances are addressed 
+by the district  authority  competent  for the implementation of overall land acquisition , 
+awards , and payment of compensation. Locally appropriate public consultation and 
+disclosure processes were and will be used to disseminate information about the GRM.  
+ 
+50. Project -Affected People’s Mechanism (PPM).  AIIB’s Policy on the Project -
+affected Peoples Mechanism (PPM) applies to th is project. The PPM has been 
+established by AIIB to provide an opportunity for an independent and impartial review of 
+submissions from project -a",Information Technology,8
+30,30_4,"ect -
+affected Peoples Mechanism (PPM) applies to th is project. The PPM has been 
+established by AIIB to provide an opportunity for an independent and impartial review of 
+submissions from project -affected people who believe they have been or are likely to be 
+adversely affected by AIIB’s failure to implement th e ESP in situations when their 
+concerns cannot be addressed satisfactorily through the project -level GRM or the 
+processes of AIIB’s Man agement . For information on how to make submissions to the 
+PPM, please visit the PPM web site.107  
+E. Gender Equality and Social Inclusion   
+51. KMRL has implemented significant gender initiatives over the last years that 
+include women employment not only in the management, but also as train operators, 
+station controllers, or engineers. As above -mentioned, through Kudumbashree, KMRL 
+engaged transge nder people in facility management services at stations , such as 
+housekeeping, security , and ticketing. Phase II possesses the poten",Information Technology,8
+30,30_5,"As above -mentioned, through Kudumbashree, KMRL 
+engaged transge nder people in facility management services at stations , such as 
+housekeeping, security , and ticketing. Phase II possesses the potential to make a 
+significant contribution towards the promotion of gender equality and the empowerment 
+of women. The allocatio n of personnel for frontend customer facilitation is intended to 
+ 
+ 
+106 The form is available at this link. 
+107 The PPM’s website is available at this link.",Information Technology,5
+31,31_1,"26 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+be sourced from the Economically Weaker Sections (EWS) category, mirroring the 
+approach employed in Phase I. In addition, Phase II includes the implementation of 
+gender -inclusive amenities, such as designated areas for women and passengers with 
+special nee ds, the installation of breastfeeding pods at stations, and the provision of 
+diaper changing tables. The project will promote social inclusion as it seeks to address 
+in its design the access issues of marginalized and vulnerable groups, such as (i) PWD, 
+(ii) the elderly, (iii) children, and (iv) members of the lesbian, gay, bisexual, transgender 
+people, queer, and intersexual (LGBTQI+) community. Within KMRL, incidents of sexual 
+harassment at the workplace are addressed by and internal committee which also 
+conducts regular sessions with staff on women safety at workplace. For further details, 
+see Annex 4.  
+F. Climate Change  
+52. The project inherently su",Information Technology,9
+31,31_2,"ddressed by and internal committee which also 
+conducts regular sessions with staff on women safety at workplace. For further details, 
+see Annex 4.  
+F. Climate Change  
+52. The project inherently supports climate change mitigation by encouraging the 
+shift from road -based private transport to more sustainable alternatives with reduced 
+GHG emissions. In terms of climate change adaptation, EIA, the preliminary climate and 
+geological risk screening (by using Aware) and EDDR identified several climate -related 
+hazards, including floods, increased precipitation, high temperature, increased wind 
+speed, and water unavailability. A set of adaptatio n measures to be included into the 
+DEDs  to address these risks were proposed in the EDDR, as listed in Annex 5 . The 
+project can be considered 100 percent climate  mitigation  finance as its main activity 
+(urban public transport) is included in the list of eligible activities under the “ Common 
+Principles for Climate Mitigation Finance T",Information Technology,12
+31,31_3,"d 100 percent climate  mitigation  finance as its main activity 
+(urban public transport) is included in the list of eligible activities under the “ Common 
+Principles for Climate Mitigation Finance Tracking ”108 and complies with the necessary 
+criteria for this category as it demonstrates a modal shift towards a lower carbon mode 
+achieving net savings of 123,700.8 tCO2/year in the first year of operation .109 In addition, 
+the climate adaptation finance of this project has been estimated at 15 percent because 
+as above -mentioned,  it includes  a number of  structural  adaptation  measures .110 
+Consequently, the project can be tagged as 100 percent climate finance.  
+G. Risks and Mitigation Measures  
+53. Based on the  assessment, an overall “medium ” risk rating  has been assigned  to 
+the project , mainly due to the risks pertaining to  potential delays in land acquisition , the 
+GOI and G OK budget allocation , potential  time and cost overruns and  E&S impacts 
+during construct",Information Technology,12
+31,31_4," 
+the project , mainly due to the risks pertaining to  potential delays in land acquisition , the 
+GOI and G OK budget allocation , potential  time and cost overruns and  E&S impacts 
+during construction  and operation . The identified risks and the proposed mitigation 
+measures are presented in the table below .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108 Joint MDB Group; “ Common Principles for Climate Mitigation Finance Tracking ”; December 5, 2023; 
+(link).  
+109 This has been estimated in EDDR.  
+110 E.g., elevated plinth level on stations and elevated footpaths/walkways tackling the risk of increasing 
+floods and the head -hardened steel rail tracks tackling the risk of high temperatures. The climate adaptation 
+percentage has been calculated using the proportional approach set up on the following document:  Joint 
+MDB Group; “Joint Methodology for Tracking Climate Change Adaptation  Finance ”; 2022; (link).",Project Management,5
+32,32_1,"27 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Table 3.  Summary of Risks and Mitigation Measures  
+Risk Description  Assessment  Mitigation Measures  
+Program/Project Preparation Risks  
+Technical design s 
+▪ Lack of quality assurance 
+mechanism for designs 
+and works . Low ▪ KMRL will be supported by DDC and 
+GC to prepare and supervise the 
+designs preparation.  
+▪ AIIB will be actively engaging  with 
+KMRL, GC and design build 
+contractors to finalize the  designs  to 
+adequate  quality .  
+Program/Project Implementation Risks  
+Implementation capacity   
+▪ Limited staffing and  
+experience of KMRL in 
+certain areas.  Low ▪ KMRL will be supported by GC and 
+some individual consultants may be 
+hired to strengthen the team .   
+Land acquisition  
+▪ Delay in land acquisition.  Medium  ▪ More than 50 percent of land required 
+for the project has been  acquired  and 
+the remaining land  is being acquired .  
+▪ Funds are already deposited with the 
+land acquisition  ",Information Technology,12
+32,32_2,"isition.  Medium  ▪ More than 50 percent of land required 
+for the project has been  acquired  and 
+the remaining land  is being acquired .  
+▪ Funds are already deposited with the 
+land acquisition  authority.  
+Financial management  
+▪ Timely GOI and GOK 
+budget allocation and 
+fund release . 
+▪ Absence of specific 
+project FM Manual may 
+lead to shortcomings in 
+the application and use of 
+project funds.  
+▪ Finance staff’s l imited 
+experience with MDB’s 
+requirements  may lead to 
+inadequate financial 
+reporting  at the initial 
+stage .    Medium  ▪ AIIB will closely monitor the budget 
+allocation from GOI and GOK and  
+undertake implementation review 
+mission s biannually . 
+▪ KMRL has develop ed FM chapters 
+under PIM. 
+▪ KMRL’s finance team will agree the 
+final draft of the first IUFR SOE with the 
+Bank’s FM Specialist . 
+Procurement of large and complex packages  
+▪ Complex and large  civil 
+works  packages to be 
+procured.  
+▪ Limited competition for 
+RS&T packages.  Low ▪ G",Information Technology,13
+32,32_3,"IUFR SOE with the 
+Bank’s FM Specialist . 
+Procurement of large and complex packages  
+▪ Complex and large  civil 
+works  packages to be 
+procured.  
+▪ Limited competition for 
+RS&T packages.  Low ▪ GC will support the development of 
+robust tender document s.  
+▪ KMRL’s Phase I experience will add 
+value.  
+▪ Universal procurement will be adopted 
+following AIIB’s Procurement Policy.  
+Time and cost overrun  
+▪ Delay in implementation 
+due to unforeseen 
+reasons . Medium  ▪ Phase I is already constructed and 
+operat ed by KMRL. GC and contractor 
+joint experience under the guidance of 
+KMRL will be useful to execute the 
+project in a timely manner.  
+E&S impacts during construction  and operation",Procurement,10
+33,33_1,"28 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Risk Description  Assessment  Mitigation Measures  
+▪ Due to the urban 
+environment of the 
+project, impacts are 
+expected to the 
+surrounding community 
+including traffic  
+congestion , dust, noise, 
+and vibration.  High ▪ The contractors will be  required to 
+prepare site -specific management 
+plans to mitigate the impacts, which will 
+be approved by KMRL prior to 
+commencement of works.  
+▪ A traffic management plan has already 
+been prepared  and communicated to 
+the District Collector and 
+Commissioner of Police to facilitate 
+easing of traffic during  construction.  
+▪ Noise and vibration  impact during the 
+operation will be mitigated through 
+enhanced design s, as necessary , and 
+follow ing the mitigation measures 
+outlined in the E DDR and CESMP.",Information Technology,7
+34,34_1,"29 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 1: Results Monitoring Framework   
+Project Objective  Improve urban mobility on the corridor from the JLN Stadium to Smart City  via Kakkanad in Kochi.  
+Indicator Name  Unit of 
+Measure  Baseline 
+Year 
+(2023) Cumulative Target Values  End Target  
+(2027) Monitoring  
+Frequency  Responsible 
+Party 
+   2024 2025 2026 2027    
+Project Objective Indicators   
+1. Public transport journey time from JLN Stadium to 
+Smart City  Minutes  60 NA NA NA NA 25 At the end of 
+the project  KMRL  
+2. Passengers transported daily along the corridor of 
+Phase II (women)  Number  0 NA NA NA NA 62,211 
+(31,106)  At the end of 
+the project   KMRL  
+3. Trains reaching the end stations within 3 minutes 
+from the scheduled time on the corridor of P hase II  Percentage  0 NA NA NA NA 98 At the end of 
+the project  KMRL  
+Intermediate Results Indicators   
+1. Elevated viaduct constructed for Phase II  km 0 0 5 9 11.2 11.2 Bi-annual  KMRL",Information Technology,7
+34,34_2,"idor of P hase II  Percentage  0 NA NA NA NA 98 At the end of 
+the project  KMRL  
+Intermediate Results Indicators   
+1. Elevated viaduct constructed for Phase II  km 0 0 5 9 11.2 11.2 Bi-annual  KMRL  
+2. Stations constructed with barrier -free, gender -
+responsive and climate -resilient features  Number  0 0 2 8 11 11 Bi-annual  KMRL  
+3. Track work  completed  Percentage  0 0 20 80 100 100 Bi-annual  KMRL  
+4. System s install ed Percentage  0 0 0 50 100 100 Bi-annual  KMRL",Information Technology,2
+35,35_1,"30 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 2: Economic and Financial Analysis   
+A. Economic Analysis  
+1. Methodology . The conventional cost -benefit analysis method was used  for the 
+evaluation of the economic viability of th e project. The situation predicted to occur with 
+the project  (“with project” scenario ) and the situation expected to occur if the project is 
+not implemented  (“without project” scenario ) were compared . The evaluation period over 
+which the construction and operations were assessed was 30 years (4 years of 
+construction and 26 years of operation), with 2023 as the base year as the construction 
+started th at year.   
+ 
+2. Economic Costs . These  include the capital cost of infrastructure and rolling stock, 
+the O&M  cost of the metro system, and the capital replacement cost.  
+• Capital Expenditure . According to the revised DPR, the financial capital 
+investment for Phase II is estimated at USD235. 5 million (2019 price lev",Information Technology,15
+35,35_2,"metro system, and the capital replacement cost.  
+• Capital Expenditure . According to the revised DPR, the financial capital 
+investment for Phase II is estimated at USD235. 5 million (2019 price level).  After 
+excluding the contingencies, central and state taxes, interest fees, and price 
+escalation, but including the land cost (both p ublic and private), and resettlement 
+and rehabilitation costs, the required expenditure stands at USD187. 7 million. 
+The final economic cost was derived as USD189. 3 million  after (i) updating this 
+financial cost to the 2023 price l evel,111 and (ii) converting the financial cost to 
+economic cost using a conversion factor .112 Based on the experience of similar 
+metro projects, roughly 60 percent of the expense was phased out  for the initial 
+two years of the construction period .  
+• O&M Cost . Staff wages, routine maintenance expenses ,113 and energy costs114 
+were considered under this cost. All O&M costs were  further escalated115 to the 
+20",Finance,12
+35,35_3,"ars of the construction period .  
+• O&M Cost . Staff wages, routine maintenance expenses ,113 and energy costs114 
+were considered under this cost. All O&M costs were  further escalated115 to the 
+2023  price level  (operation starting period) and then were assumed to be 
+constant throughout the evaluation period . As for the capital expenditure, t he 
+whole O&M financial cost was converted to economic cost using a conversion 
+factor .116  
+• Capital Replacement Cost . This is required for the replacement of equipment 
+due to wear and tear over the project’s lifetime. To meet rising demand, the 
+addition of 6, 3, 9, and 15 rolling stocks to the system has been planned for the  
+years 6, 11, 16, and 21, respectively,  after the operation begins. A replacement 
+of 25 percent of electrical and 50 percent of signaling and telecom assets will be 
+ 
+ 
+111 Using a 5 percent escalation factor based on the approach followed in the ‘Chennai Metro Rail Phase 
+2—Balance Corridor 5’ project.  
+112",Finance,7
+35,35_4,"nd 50 percent of signaling and telecom assets will be 
+ 
+ 
+111 Using a 5 percent escalation factor based on the approach followed in the ‘Chennai Metro Rail Phase 
+2—Balance Corridor 5’ project.  
+112 0.83 was used as prescribed in the Appraisal Guidelines for Metro Rail Project Proposals, issued by 
+MOHUA.  
+113 The staff cost and maintenance cost were estimated based on  the following document:  Ministry of Urban 
+Development ; “The Report of the Sub -Committee on Operations and Maintenance Systems  for Metro 
+Railways ”; November 2013.  
+114 In line with Phase I, 52 percent of the total demand has been estimated to be covered by solar energy, 
+with the remainder to be provided by the Kerala State Electricity Board (KSEB).  
+115 For staff cost, an escalation rate of 5 percent per annum  was used considering  the pay revision and 
+increase in dearness allowance  following KMRL’s current practice. F or routine maintenance  and energy 
+costs, escalation rates of 3 and 1.3 percent were u",Information Technology,5
+35,35_5,"was used considering  the pay revision and 
+increase in dearness allowance  following KMRL’s current practice. F or routine maintenance  and energy 
+costs, escalation rates of 3 and 1.3 percent were used, respectively. Source: KMRL based on Phase I 
+experience.  
+116 0.83 was used as prescribed in the Appraisal Guidelines for Metro Rail Project Proposals, issued by 
+MOHUA.",Finance,1
+36,36_1,"31 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+required in year 18.  This financial cost was also converted to economic cost 
+using a conversion factor .117  
+ 
+3. Economic Benefits . The main benefit of the introduction of Phase II is in the form 
+of travel time savings. Furthermore, the economic returns took into account the savings 
+in VOC, accident reduction, pollution reduction, reduced road stress , and residual 
+value .118  
+• Value of Time (VOT) Savings . This benefit will stem mainly from (i) time savings 
+for modal shift passengers compared to the 'without project' scenario, and (ii) 
+time savings for passengers riding on other modes due to less congestion. The 
+unit VOT for working and non -working  passenger s was estimated using the 
+GDP -based technique .119 The occupancy factor120 and average trip length  data 
+were obtained from the contemporarily developed  comprehensive mobility plan 
+(CMP) report . The mode -wise speed vehicle data was revised co",Information Technology,6
+36,36_2,"119 The occupancy factor120 and average trip length  data 
+were obtained from the contemporarily developed  comprehensive mobility plan 
+(CMP) report . The mode -wise speed vehicle data was revised considering the 
+speed of similar modes in cities with similar demographics. The speed of the 
+metro was considered 34 km/hour,121 and for the ‘with project’ scenario, the 
+modeling yielded a 1 to 2 km/h increase in speed for the other modes.   
+• VOC  Savings . This benefit will accrue primarily because of a reduced number of 
+private vehicles utilized due to  the modal shift  towards public transport,  and 
+smoother operation  of other modes  resulting from  less congestion. As a 
+conservative approach, only the  VOC savings due to the  absence of  vehicles  
+were considered . The mode -wise VOC data (2016 -17) was obtained from the 
+DPR.122  
+• Benefits due to Accident Reduction. The project  will contribute to reducing  the 
+number of accidents due to passenger mode shift  from private t",Information Technology,6
+36,36_3,"OC data (2016 -17) was obtained from the 
+DPR.122  
+• Benefits due to Accident Reduction. The project  will contribute to reducing  the 
+number of accidents due to passenger mode shift  from private to public transport . 
+The benefits were estimated by taking into account the cost of (i) damaged 
+vehicles, (ii) injury, and (iii) fatal accidents. These indicative costs, in the 2004  
+price level,123 have been obtained from the guideline of M OHUA. The data ( 2022) 
+for accident cases,124 including the number of fatalities and injuries were used to 
+compute the benefits.  
+• Benefits due to Pollution Reduction. With fewer vehicles on the road and less 
+congestion, air pollutants released will be significantly reduced. The MOHUA 
+guideline provides the volume of pollutants (i.e., CO, HC, NOX, PM, CO 2) 
+emitted for different modes as well as the treatment cost. 125 The savings for each 
+pollutant were calculated considering the travel length saved by diverted vehicles.  
+ 
+ 
+117 0.83 was ",Information Technology,7
+36,36_4," PM, CO 2) 
+emitted for different modes as well as the treatment cost. 125 The savings for each 
+pollutant were calculated considering the travel length saved by diverted vehicles.  
+ 
+ 
+117 0.83 was used as prescribed in the Appraisal Guidelines for Metro Rail Project Proposals, issued by 
+MOHUA.  
+118 The following e conomic factors  established  per M OHUA were utilized : VOT savings (1.0), VOC  savings  
+(0.9), accident reduction savings (0.9), emission saving (1.0), and infrastructure maintenance cost savings 
+(0.87). 
+119 Working passenger (USD1.11 per hour) and non -working passenger (USD0.33 per hour).  
+120 Two-wheeler (1.49); average car and taxi (2.78); auto (2.45); and bus (38.9).  
+121 This is aligned with the current operational speed of Phase I (34.07 km/h) and the Operational Plan for 
+Phase II.  
+122 Two-wheeler (USD0.02 per km); car (USD0.06 per km); auto (USD0.03 per km); and bus (USD0.16 USD 
+per km).  
+123 This was updated to 202 3 price level using a 5 percent esc",Finance,3
+36,36_5,"al Plan for 
+Phase II.  
+122 Two-wheeler (USD0.02 per km); car (USD0.06 per km); auto (USD0.03 per km); and bus (USD0.16 USD 
+per km).  
+123 This was updated to 202 3 price level using a 5 percent escalation factor (as prescribed per MOHUA ). 
+124 KMRL. Source: Kerala Police Statistics.  
+125 The treatment cost for CO 2 considered was the midpoint value from : AIIB  “Guidance Note on Cost 
+Benefit Analysis of Projects ”; July 2023.",Finance,2
+37,37_1,"32 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+• Reduced Road Infrastructure Cost. As traffic congestion on the roads will 
+decrease, the need for maintenance or expansion of existing road infrastructure 
+will also decrease. An indicative cost of USD0.07 per vehicle km126 was 
+considered and corresponding savings were estimated using the total length 
+saved owing to the diverted vehicles.  
+• Residual Value.  Only the civil works (i.e., viaduct, station, staff quarter, and NMT 
+works) were taken into account with an assumption that those would be 
+depreciated in 50 years. The straight -line depreciation method was used for the 
+calculation.127 
+ 
+Table 1: Annual Benefits and Costs (USD million)  Evaluation 
+Year  
+Economic 
+Capex  
+Economic 
+O&M Cost  
+Economic 
+Capital 
+Replacement 
+Cost  
+VOT Savings  
+VOC Savings  
+Benefits due 
+to Accident 
+Reduction  
+Benefits due 
+to Pollution 
+Reduction  
+Reduced 
+Road 
+Infrastructure 
+Cost  
+Residual 
+Value  
+Net Benefit  
+",Finance,6
+37,37_2,"l 
+Replacement 
+Cost  
+VOT Savings  
+VOC Savings  
+Benefits due 
+to Accident 
+Reduction  
+Benefits due 
+to Pollution 
+Reduction  
+Reduced 
+Road 
+Infrastructure 
+Cost  
+Residual 
+Value  
+Net Benefit  
+2023  (43.5)  - - - - - - - - (43.5)  
+2024  (77.6)  - - - - - - - - (77.6)  
+2025  (37.9)  - - - - - - - - (37.9)  
+2026  (30.3)  - - - - - - - - (30.3)  
+2027  - (6.7) - 14.8 3.1 0.2 0.6 0.5 - 12.5 
+2028  - (6.8) - 16.7 3.3 0.2 0.7 0.6 - 14.7 
+2029  - (6.8) - 18.9 3.5 0.2 0.7 0.6 - 17.2 
+2030  - (6.9) - 21.3 3.8 0.2 0.8 0.7 - 19.9 
+2031  - (7.0) - 24.0 4.0 0.2 0.9 0.7 - 23.0 
+2032  - (7.0) (6.0) 27.0 4.3 0.3 0.9 0.8 - 20.3 
+2033  - (7.1) - 30.4 4.6 0.3 1.0 0.8 - 30.1 
+2034  - (7.1) - 34.1 5.0 0.3 1.1 0.9 - 34.3 
+2035  - (7.2) - 38.3 5.3 0.3 1.2 0.9 - 38.9 
+2036  - (7.3) - 43.0 5.7 0.3 1.3 1.0 - 44.1 
+2037  - (7.3) (3.0) 48.2 6.1 0.3 1.4 1.1 - 46.8 
+2038  - (7.4) - 53.9 6.5 0.4 1.6 1.1 - 56.1 
+2039  - (7.5) - 60.4 7.0 0.4 1.7 1.2 - 63.2 
+2040  - (7.7) - 67.6 7.5 0.4 1.9 1.3 - 71.0 
+2041  ",Information Technology,3
+37,37_3,"0 - 44.1 
+2037  - (7.3) (3.0) 48.2 6.1 0.3 1.4 1.1 - 46.8 
+2038  - (7.4) - 53.9 6.5 0.4 1.6 1.1 - 56.1 
+2039  - (7.5) - 60.4 7.0 0.4 1.7 1.2 - 63.2 
+2040  - (7.7) - 67.6 7.5 0.4 1.9 1.3 - 71.0 
+2041  - (7.8) - 75.6 8.0 0.4 2.0 1.4 - 79.7 
+2042  - (7.9) (9.0) 84.5 8.6 0.5 2.2 1.5 - 80.3 
+2043  - (8.0) - 94.4 9.2 0.5 2.4 1.6 - 100.1  
+2044  - (8.1) (11.0)  105.5  9.8 0.5 2.6 1.7 - 101.0  
+2045  - (8.3) - 117.7  10.5 0.6 2.8 1.8 - 125.2  
+2046  - (8.4) - 131.4  11.2 0.6 3.1 2.0 - 139.9  
+2047  - (8.5) (15.0)  146.6  12.0 0.6 3.3 2.1 - 141.3  
+2048  - (8.6) - 163.5  12.9 0.7 3.7 2.3 - 174.4  
+2049  - (8.7) - 182.3  13.8 0.7 4.0 2.4 - 194.5  
+2050  - (8.9) - 203.2  14.8 0.7 4.3 2.6 - 216.8  
+2051  - (9.0) - 226.4  15.8 0.8 4.6 2.8 - 241.4  
+2052  - (9.1) - 252.1  16.9 0.8 5.0 3.0 62.8 331.6  
+Source: AIIB PT.  
+ 
+ 
+ 
+126 DMRC; “Detailed Project Report for Ahmedabad Metro Rail Project Phase I ”; 2014.  
+127 Same amount of depreciation was deducted over a period of 50 years.",Project Management,2
+38,38_1,"33 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+4. Results and Sensitivity Analysis . Initially, the estimated EIRR and ENPV were 
+16.24 percent and USD49 million, respectively.128 The calculation was further updated 
+during the appraisal where the following key changes were made: (i) the update of the 
+ridership data considering Phase I performance and the first year of operation, (ii) the 
+use of constant cost and price for the evalu ation period, (iii) the reduction of the speed 
+of the mode -wise vehicle for both ‘with metro’ and ‘without metro’ scenario, and (iv) 
+inclusion of residual value.  According to the updated calculation, t he project is 
+economically viable, with an EIRR of 15.25  percent. The overall ENPV is approximately 
+USD 220 million129. A sensitivity analysis was carried out with the following  scenarios: (i) 
+a 25 percent  increase in costs; (ii) a 25 percent  decrease in benefits; (iii) a 25 percent 
+reduction in ridership, and (iv) a combine",Information Technology,10
+38,38_2,"ty analysis was carried out with the following  scenarios: (i) 
+a 25 percent  increase in costs; (ii) a 25 percent  decrease in benefits; (iii) a 25 percent 
+reduction in ridership, and (iv) a combinedly 25 percent increase in cost and 25 percent 
+decrease in benefits . The project remains viable in all scenarios .  
+Table 2: Summary of Sensitivity Analysis  
+ Particulars  EIRR  ENPV (USD  
+million ) 
+Base Scenario  15.25%  220 
+25 percent Increase in Cost  13.15%  167 
+25 percent Decrease in Benefits  12.25%  101 
+25 percent Reduction in Ridership  14.00%  168 
+Combination of 25 percent Increase in Cost and 25 
+percent Decrease in Benefits  10.34%  47 
+Source: AIIB PT.  
+ 
+B. Financial Analysis  
+5. The financial viability of the project was assessed  taking into account the 
+financial  costs  (capital, O&M, and additional capital cost) , and revenues  (farebox  and 
+non-farebox). The evaluation period was considered  for 30 years, including 26 years of 
+operation and 4 years of const",Information Technology,11
+38,38_3,"osts  (capital, O&M, and additional capital cost) , and revenues  (farebox  and 
+non-farebox). The evaluation period was considered  for 30 years, including 26 years of 
+operation and 4 years of construction.  Initially, the estimated FIRR of the project was 
+6.69 percent.130 During the appraisal, the calculation was slightly adjusted. Key changes 
+made were (i) an update of the ridership data as mentioned above, (ii) an increase of 
+fare unit rate by 5.6 percent131 instead of 7.5 percent,132 and (iii) an increase of all the 
+costs annually until the end of the evaluation period.  
+ 
+6. Financial Costs.  In line with the economic analysis, the following costs were 
+identified : (i) capital cost (including the construction cost of the viaduct, stations, cost of 
+rolling stock, electrical and mechanical systems), (ii) O&M expenses (i.e., staff, energy, 
+and regular maintenance), and (iii) replacement cost for the rolling stock, and som e 
+equipment.  
+• Capital Cost . It considers  facto",Information Technology,10
+38,38_4,"d mechanical systems), (ii) O&M expenses (i.e., staff, energy, 
+and regular maintenance), and (iii) replacement cost for the rolling stock, and som e 
+equipment.  
+• Capital Cost . It considers  factors such as escalation, interest fees, central and 
+state taxes ,133 and contingencies. Land costs and expenses under the PPP 
+ 
+ 
+128 DPR  (a discount rate of 14 percent was utilized).  
+129 Using a discount rate of 9 percent.  
+130 DPR.  
+131 Considering the average inflation rate  of India  for the  last 10 years . 
+132 7.5 percent was the value utilized in the latest DPR.  
+133 The tax rates are estimated keeping it aligned with other metro rail projects  in India  (applicable GST 
+rates of 12  percent  on various components , except for the rolling stock , which is considered as 5  percent ).",Finance,6
+39,39_1,"34 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+element were excluded, as they do not entail direct financial outflows from KMRL. 
+The capital cost, estimated at USD216.1 million, is based on the 2023 price level.  
+• O&M Cost . A 5 percent escalation for staff wages, 3 percent for maintenance, 
+and 1.3 percent for energy prices were applied to align with the base year level 
+of the evaluation period.134 An additional 3 percent annual growth was assumed 
+for staff wages and maintenance costs throughout the evaluation period.135  
+• Replacement Cost . An escalation of 5 percent was considered for the fifth year 
+since the beginning of the operation . After that, the same unit price  for the rolling 
+stock  was taken into consideration for the remainder of the period.136 
+ 
+7. Revenues.  The following t wo revenue streams were considered for calculation.  
+• Farebox Revenue.  This has been estimated considering the distance -based 
+proportion of ridership number  and ",Finance,4
+39,39_2,"
+ 
+7. Revenues.  The following t wo revenue streams were considered for calculation.  
+• Farebox Revenue.  This has been estimated considering the distance -based 
+proportion of ridership number  and an escalation of 5.6 percent . 137   
+• Non-fare box revenue.  The income from station naming rights, advertising rights, 
+station area rentals, and property development at the metro stations are included 
+in this revenue stream . As a conservative approach, only 3 stations  were 
+considered  for station naming rights, and the lease charge was estimated as 
+USD0.4 million  per annum  per station  (lower than Phase I). The unit pric e for 
+property development, station area rentals, and advertisement rights has been 
+derived from Phase I . An escalation of 2.5 p ercent was taken into consideration 
+throughout the evaluation period ( since the actual escalation offered in Phase I 
+contracts is 7.5  percent  for every 3 years ). The available area for advertisement 
+rights and property develo",Operations,7
+39,39_3,"ion 
+throughout the evaluation period ( since the actual escalation offered in Phase I 
+contracts is 7.5  percent  for every 3 years ). The available area for advertisement 
+rights and property development was considered to be let out in a phased 
+manner.  KMRL has also prepared a proposal for TOD activities which is currently 
+under review by GOK. However, the estimated VCFs from the TOD activities 
+have not been taken into account in this calculation.  
+Table 3: Annual Revenue and Financial Costs (USD million)  
+Period  Capital 
+Cost  O&M 
+cost Replacement 
+Cost  Farebox 
+Revenue 
+Payment to Pvt. 
+Partner  Fare 
+Box 
+Revenue  Non Fare 
+Box 
+Revenue  Net 
+Cash 
+Flow  
+2023  (60.4)  - - - - - (60.4)  
+2024  (107.7)  - - - - - (107.7)  
+2025  (52.5)  - - - - - (52.5)  
+2026  (42.0)  - - - - - (42.0)  
+2027  - (8.9) - (0.3) 6.4 5.1 2.3 
+2028  - (9.3) - (0.3) 7.2 5.2 2.8 
+2029  - (9.6) - (0.3) 8.0 5.6 3.8 
+2030  - (9.9) - (0.4) 9.0 5.8 4.5 
+2031  - (10.3)  - (0.4) 10.1 6.3 5.6 
+2032  - (1",Finance,6
+39,39_4," - (42.0)  
+2027  - (8.9) - (0.3) 6.4 5.1 2.3 
+2028  - (9.3) - (0.3) 7.2 5.2 2.8 
+2029  - (9.6) - (0.3) 8.0 5.6 3.8 
+2030  - (9.9) - (0.4) 9.0 5.8 4.5 
+2031  - (10.3)  - (0.4) 10.1 6.3 5.6 
+2032  - (10.7)  (7.2) (0.5) 11.3 6.4 (0.7) 
+2033  - (11.0)  - (0.5) 12.6 6.9 8.0 
+ 
+ 
+134 The staff cost has been escalated by 5 percent per year  from 2013 onwards considering the escalation 
+in manpower cost due to pay revision and increase in dearness allowance  following KMRL’s current practice . 
+The escalation  factors  for O&M expense and energy rate are from Phase I ’s experience.  
+135 This is because  the annual increment of labor in India is 3  percent.  
+136 The assumption taken was that the cost of rolling stock would stabilize eventually . 
+137 The fare structure  of Phase I  has been kept constant since the beginning of its operation . However, t he 
+fare can be escalated based on the recommendation of the Fare Fixation Committee as per The Metro 
+Railway (Operations and Maintenance) ",Finance,3
+39,39_5," constant since the beginning of its operation . However, t he 
+fare can be escalated based on the recommendation of the Fare Fixation Committee as per The Metro 
+Railway (Operations and Maintenance) Act, 2002. According to the F are Fixation Committee  of DMRC , a 
+yearly escalation of 7  percent  or the increase in the operation cost, whichever is lower , is recommended .",Operations,3
+40,40_1,"35 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Period  Capital 
+Cost  O&M 
+cost Replacement 
+Cost  Farebox 
+Revenue 
+Payment to Pvt. 
+Partner  Fare 
+Box 
+Revenue  Non Fare 
+Box 
+Revenue  Net 
+Cash 
+Flow  
+2034  - (11.4)  - (0.6) 14.2 7.1 9.2 
+2035  - (11.8)  - (0.6) 15.8 7.6 11.0 
+2036  - (12.2)  - (0.7) 17.8 7.8 12.6 
+2037  - (12.7)  (3.6) (0.8) 19.9 8.4 11.2 
+2038  - (13.2)  - (0.9) 22.3 8.6 16.8 
+2039  - (13.7)  - (1.0) 24.9 9.2 19.5 
+2040  - (14.3)  - (1.1) 27.9 9.4 22.0 
+2041  - (14.8)  - (1.3) 31.3 9.7 24.9 
+2042  - (15.4)  (10.8)  (1.4) 35.0 9.9 17.3 
+2043  - (16.0)  - (1.6) 39.2 10.2 31.9 
+2044  - (16.6)  (13.2)  (1.8) 44.0 10.5 22.8 
+2045  - (17.2)  - (2.0) 49.2 10.8 40.8 
+2046  - (17.9)  - (2.2) 55.1 11.0 46.0 
+2047  - (18.6)  (18.0)  (2.5) 61.7 11.3 34.0 
+2048  - (19.2)  - (2.8) 69.2 11.6 58.7 
+2049  - (19.9)  - (3.1) 77.5 11.8 66.2 
+2050  - (20.7)  - (3.5) 86.7 12.1 74.7 
+2051  - (21.4)  - (3.9) 97.2 12.4 84.2 
+2052  - (22.2)  - (4.4) 108.8  12.7 95.0 
+",Finance,5
+40,40_2,"48  - (19.2)  - (2.8) 69.2 11.6 58.7 
+2049  - (19.9)  - (3.1) 77.5 11.8 66.2 
+2050  - (20.7)  - (3.5) 86.7 12.1 74.7 
+2051  - (21.4)  - (3.9) 97.2 12.4 84.2 
+2052  - (22.2)  - (4.4) 108.8  12.7 95.0 
+Source: AIIB PT.  
+ 
+8. Outcome of the financial analysis.  The updated evaluation results show that 
+Phase II  has an estimated post -tax real FIRR of 4.98 percent.  The sensitivity analysis 
+indicates that t he project would be financially viable if the growth rate in fare structure is 
+greater than 2. 24 percent.   
+Table 4: Sensitivity Analysis to the Growth Rate of the  Fare Structure  
+Growth Rate  FIRR  Growth Rate  FIRR  
+Base (5.6%)  4.98%  3.0%  1.25%  
+0.0%  (4.64% ) 4.0%  2.76%  
+1.0%  (2.31% ) 5.0%  4.17%  
+2.0%  (0.41% ) 6.0% 5.51% 
+Source: AIIB PT.",Information Technology,4
+41,41_1,"36 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 3: Sovereign Credit Fact Sheet  
+A. Recent Economic Development  
+ 
+1. India is a lower -middle -income country, with a GDP per capita of USD2379.2 
+and a population of ~1.4 billion in 2022.138 India’s economy grew at an average annual 
+rate of 7.4 percent between FY2014 and FY2018 but slowed down in the years before 
+the pandemic following disruptions due to demonetization, rollout of goods and services 
+tax, rural distress, and stress in the finan cial sector.139140 India’s GDP contracted by 5.8 
+percent in FY2020 (year ending in March 2021) on account of stringent lockdown 
+restrictions imposed during the first half of the year. With increased mobility and 
+favorable base effect, the Indian economy grew by 9.1 percent in FY2021 and 7.2 
+percent in FY2022. Even though the economy grew by 7.8 percent in the first quarter of 
+FY2023, with waning of the pent -up demand from the lockdown, weakening of exports, 
+and",Information Technology,6
+41,41_2,"cent in FY2021 and 7.2 
+percent in FY2022. Even though the economy grew by 7.8 percent in the first quarter of 
+FY2023, with waning of the pent -up demand from the lockdown, weakening of exports, 
+and tighter fiscal and monetary policy impacting aggregate demand, t he economy is 
+expected to slow down.  
+ 
+2. Inflation averaged 6.2 percent in FY2020, primarily driven by food inflation due 
+to supply side disruptions. As a response to the pandemic, the Reserve Bank of India 
+(RBI) introduced measures to improve credit flow to the productive sectors. Policy rates 
+remained unchanged with the RBI maintaining an accommodative stance between 
+August 2020 and April 2022. Retail inflation averaged 6.7 percent in FY2022, well above 
+the 4± 2 percent inflation targeting band. Elevated food and fuel prices have contributed 
+significantly to the rise in inflation  which led the RBI to increase  the repo rate by a 
+cumulative 250 basis points between May 2022 and February 2023 , which now stands 
+",Procurement,6
+41,41_3," prices have contributed 
+significantly to the rise in inflation  which led the RBI to increase  the repo rate by a 
+cumulative 250 basis points between May 2022 and February 2023 , which now stands 
+at 6.5 percent. RBI expects inflation to moderate at ~5 percent in FY2023 due to easing 
+of commodity prices. In April 2023, it decided to pause the tightening cycle  while 
+indicating a gradual withdrawal of the accommodative stance. From March to June 2023 , 
+inflation moderated and remained within the target band of 4± 2 percent  but spiked in 
+July and August 2023 due to high food inflation but moderated to 5 percent in September 
+2023. The RBI maintained a pause in its October 2023 policy meeting.   
+ 
+3. A downturn in revenue due to economic slowdown and higher spending on the 
+stimulus package resulted in the fiscal deficit widening significantly to 12.8 percent of 
+GDP in FY2020. The o verall deficit moderated to 10 percent in FY2021 on the back of 
+strong revenue collection, that ",Information Technology,7
+41,41_4,"package resulted in the fiscal deficit widening significantly to 12.8 percent of 
+GDP in FY2020. The o verall deficit moderated to 10 percent in FY2021 on the back of 
+strong revenue collection, that allowed capital expenditure to overshoot its target. The 
+deficit in FY2022 was similar to FY2021 with both revenue and expenditure growing at 
+over 13 percent. A decline in  the federal government deficit in FY2022 was offset by an 
+increase in the deficit of the states. From April to September 2023, the fiscal deficit 
+reached 39.3 percent of the annual target, higher than the previous year. A moderation 
+in the deficit and pickup in economic activity helped public debt to decline to 8 1 percent 
+of GDP in FY2022.  
+ 
+ 
+ 
+138 The income group classification is based on World Bank criteria. Data from the World Economic Outlook 
+(WEO), October 2023.  
+139 Data are based on fiscal years. Fiscal year 2021 (FY2021) begins on April 1, 2021, and ends on March 
+31, 2022.  
+140 On November  8, 20",Information Technology,14
+41,41_5,"ata from the World Economic Outlook 
+(WEO), October 2023.  
+139 Data are based on fiscal years. Fiscal year 2021 (FY2021) begins on April 1, 2021, and ends on March 
+31, 2022.  
+140 On November  8, 2016,  GOI announced withdrawal of the legal tender of INR500 and INR1,000 notes, 
+which accounted for 86 percent of the value of currency in circulation, and introduction of new INR500 and 
+INR2,000 notes.",Procurement,1
+42,42_1,"37 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+4. After posting a surplus in FY2020, the current account reverted to a deficit of 1.2 
+percent of GDP in FY2021 as merchandise imports surged while services exports 
+remained stagnant. Private transfers , including remittances, remained strong with a net 
+inflow of USD 81.2 billion in FY2021. In FY2022 the current account deficit rose to 2. 0 
+percent of GDP mainly due to higher merchandise trade deficit. Net receipts from 
+services trade and remittances inched up during this period. Net foreign direct 
+investment ( FDI) inflows, at USD 28 billion, decreased by 27 percent in FY2022 due to 
+global uncertainties.  The e xternal debt stood at USD 629.1  billion (1 8.6 percent of GDP) 
+in June  2023. India’s reserve holdings stood at USD5 86.1 billion as of October 27,  2023. 
+Reserves remain adequate according to conventional measures.  
+ 
+5. In May 2023, Fitch and S&P affirmed India’s outlook as stable, while retaining ",Information Technology,7
+42,42_2,"stood at USD5 86.1 billion as of October 27,  2023. 
+Reserves remain adequate according to conventional measures.  
+ 
+5. In May 2023, Fitch and S&P affirmed India’s outlook as stable, while retaining 
+the BBB - rating. In June 2020, Moody’s downgraded India’s rating to Baa3 with a 
+negative outlook but revised the outlook to stable in October 2021 and retained the same 
+rating a nd outlook in August  2023.   
+ 
+B. Economic Indicators  
+ 
+6. The most relevant economic indicators are summarized in the table below:  
+Economic Indicators  FY2020  FY2021  FY2022  FY2023*  FY2024*  
+Real GDP growth  -5.8 9.1 7.2 6.3 6.3 
+Consumer Price Index ( CPI) inflation 
+(average, % change)  6.2 5.5 6.7 5.5 4.6 
+Current account balance (% of GDP)  0.9 -1.2 -2.0 -1.8 -1.8 
+General government overall balance (% of 
+GDP)  -12.9 -9.6 -9.2 -8.8 -8.5 
+General government gross debt (% of GDP)  88.5 83.8 81.0 81.9 82.3 
+Public gross financing needs (% of GDP)  18.7 15.6 16.2 15.3 14.7 
+External debt (% of GDP) ",Information Technology,2
+42,42_3,"(% of 
+GDP)  -12.9 -9.6 -9.2 -8.8 -8.5 
+General government gross debt (% of GDP)  88.5 83.8 81.0 81.9 82.3 
+Public gross financing needs (% of GDP)  18.7 15.6 16.2 15.3 14.7 
+External debt (% of GDP)  21.5 19.5 19.6 19.8  - 
+Gross international reserves (USD billions) 1/ 579.3  617.6  578.4   586.1  - 
+Exchange rate (INR/USD, EOP) 1/ 73.5 75.8 82.2 83.3 - 
+Note: FY202 2 ran from April 1, 202 2, to March 31, 202 3.  
+* denotes projected figures . 
+1/Reserves and exchange rate are sourced from RBI and pertain to late-October  2023.  
+Source: International Monetary Fund ( IMF) World Economic Outlook July and October 2023, RBI, and IMF Country Report 2 2/386. 
+C. Economic Outlook and Risks  
+  
+7. The economy is expected to grow at 5.9 and 6.3 percent in FY2023 and FY 2024, 
+respectively,  according to IMF. A weakening of the global economy and lagged effect of 
+monetary tightening as a response to fighting domestic inflation would curb demand in 
+the second half of FY2023. Private consump",Procurement,2
+42,42_4,"ording to IMF. A weakening of the global economy and lagged effect of 
+monetary tightening as a response to fighting domestic inflation would curb demand in 
+the second half of FY2023. Private consumption will be affected as higher inflation 
+erodes away purchasing power. The GOI’s subsidized food, fertilizer , and gas 
+distribution will help offset some of the effects of high in  flation. High policy rates 
+may constrain investment spending. Agriculture growth may be subdued due to uneven 
+monsoon and lower so wn area while higher borrowing cost and commodity prices may 
+impact the manufacturing sector.  
+ 
+8. Overall inflation is expected to moderate to ~5.5 percent in FY2023 due to the 
+easing of commodity prices and softening of growth. In May 2022, the RBI indicated",Procurement,3
+43,43_1,"38 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+withdrawal of its accommodative stance in response to sustained inflation and has 
+maintained the same stance as of October 2023. Persistent domestic inflation and the 
+fear of imported inflation through strengthening of the dollar may push the RBI to furthe r 
+raise interest rates in FY2023.  
+ 
+9. The GOI’s fiscal deficit in FY2023 is expected to moderate slightly to 8.8 percent 
+of GDP as tax revenues increase on the back of improved economic activity. The GOI’s 
+deficit is projected to moderate to 5.9 percent of GDP. Fiscal pressures could strengthe n 
+due to rising subsidy burden, hikes in policy rate increasing the cost of borrowing , and 
+roll out of populist measures in a pre -election year.   
+ 
+10. The public debt is expected to remain around 82 percent of GDP in FY2023, 
+similar to FY2022. In an environment of moderating nominal growth and higher interest 
+rates, fiscal consolidation will be key to reduce pu",Information Technology,5
+43,43_2,"t is expected to remain around 82 percent of GDP in FY2023, 
+similar to FY2022. In an environment of moderating nominal growth and higher interest 
+rates, fiscal consolidation will be key to reduce public debt. Despite being high, India’s 
+publi c debt remains sustainable given favorable aided by having a long and medium 
+maturity, being denominated in domestic currency, and primarily held by residents. 
+India’s external debt is expected to remain stable.  
+ 
+11. The current account deficit is projected at 1.8 percent of GDP for FY2023.  A 
+slower than expected export growth due to the global slowdown and a higher import bill 
+may put pressure on the current account deficit. Remittances may remain strong as a 
+depreci ating rupee makes remittances more lucrative. Waning of global commodity price 
+pressures and impetus to exports from some of the ongoing schemes would help current 
+account deficit to moderate further.",Information Technology,8
+44,44_1,"39 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 4 : GESI Assessment and Strategy  
+ 
+A. GESI Assessment in the Transport Sector in India and Kerala State  
+ 
+1. India is making progress towards gender equality, but disparities still persist. In 
+the fabric of the Indian Constitution, gender equality is deeply stitched, as captured in 
+Article 14 that promotes equality, Article 15 that prohibits discrimination, and Article 39 
+which emphasizes gender equality across poli tical, economic, and social realms.141 The 
+Gender Development Index (GDI) has been steadily increasing in India from 0. 759 in 
+2001  to 0.849 in 2021, but it remains still lower than the majority of the South Asian 
+countries.142 The World Economic Forum's “ The Global Gender Gap Index 2022 ” ranks 
+India 135th out of 146 countries, reflecting notable gender gaps.143 The Gender 
+Inequality Index (GII), with a score of 0.490 in 2021, also indicates a persistent gender 
+gap, which is evident fr",Information Technology,12
+44,44_2,"ks 
+India 135th out of 146 countries, reflecting notable gender gaps.143 The Gender 
+Inequality Index (GII), with a score of 0.490 in 2021, also indicates a persistent gender 
+gap, which is evident from the nearly 50 percent difference in labor force participation 
+rates.144 The representation of women in the country’s formal transport sector is also 
+quite negligible, accounting for less than one percent of the workforce.145 Despite the 
+fact that women in Indian cities rely on public transport more than men, these services 
+are not customarily built considering their safety and specific travel needs.146 The 
+prevalence of harassment in public transportation is also concerning, as in 2021, nearly 
+56 percent of female passengers reported experiencing sexual harassment.147  
+ 
+2. Kerala State presents high levels of education among females, but they still face 
+economic and security challenges, which GOK is trying to address. Kerala has the 
+highest percentage of literate women in Indi",Information Technology,7
+44,44_3,"ate presents high levels of education among females, but they still face 
+economic and security challenges, which GOK is trying to address. Kerala has the 
+highest percentage of literate women in India (95.7 percent) among those aged 7 and 
+older, co mpared to the national average of 70.3 percent.148 However, the average wage 
+and salary of females is 72 percent of that of males in Kerala.149 The unemployment rate 
+is also concerning, particularly for young women (age group 15 -29 years), as it is more 
+than double that of men (43.8 percent for women and 20.6 percent for men).150 Kerala 
+ 
+ 
+141 GOI; “ The Constitution of India ”; May 2022; ( link). 
+142 GDI is measured based on the (i) life expectancy at birth; (ii) expected years of schooling; and (iii) 
+estimated earned income . A high GDI value indicates low inequality between men and women, and vice -
+versa.  For 2021, the GDI value for the world has been measured to be 0.958, the maximum for Barbados 
+(1.034) and the minimum for ",Information Technology,5
+44,44_4,"GDI value indicates low inequality between men and women, and vice -
+versa.  For 2021, the GDI value for the world has been measured to be 0.958, the maximum for Barbados 
+(1.034) and the minimum for Yemen (0.496). Source: United Nations Development Program (UNDP); 
+“Human Development Reports: Gender Development  Index – India ”; 2023; ( link).    
+143 World Economic Forum; “Global Gender Gap Report” ; 2023; ( link).  
+144 GII is based on the dimensions of (i) reproductive health, (ii) empowerment, and (iii) labor market 
+participation. A high GII value indicates high inequality between men and women, and vice -versa.  For 2021, 
+the GII value for the world has been measured to be 0.465, the maximum for Yemen (0.820), and the 
+minimum for Denmark (0.013). Source: UNDP; “ Human Development Reports: Gender Inequality Index – 
+India ”; 2023; ( link). 
+145 A. Srija.; Confederation of Indian Industry; “Employment Potential of the Road Transport Sector” ; 2015; 
+(link). 
+146 The World Bank; ",Procurement,6
+44,44_5,"Reports: Gender Inequality Index – 
+India ”; 2023; ( link). 
+145 A. Srija.; Confederation of Indian Industry; “Employment Potential of the Road Transport Sector” ; 2015; 
+(link). 
+146 The World Bank; “ Toolkit for Enabling Gender Responsive Urban Mobility and Public Spaces: Volume 1 
+– The ‘What to do’ Note for Policymakers ”; 2022; ( link). 
+147 Observer Research Foundation; “Women on the Move: The Impact of Safety Concerns on Women’s 
+Mobility ”; 2021 ; (link). 
+148 National Statistics Office; “Key Indicators of Household Social Consumption on Education in India ”; 2019; 
+(link). 
+149 For regular wage and salaried employees in the age group 15 -59. Source: Department of Economics 
+and Statistics, Thiruvananthapuram, Kerala ; “Gender Statistics 2017 -18”; 2019; ( link). 
+150 National Sample Survey Office; “Annual Report: Periodic Labor Force Survey (PLFS) (July 2022 – June 
+2023)” ; 2023; ( link).",Procurement,6
+45,45_1,"40 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+has also the lowest women participation (5 percent) in the 17th Lok Sabha, 2019151, 
+whereas overall women participation was 14 percent.152 Disturbingly, the crime rates 
+against women in Kerala is high (82 per 100,000 population) in contrast to the national 
+average 66.4.153 This number is more alarming when it comes to the recorded rape 
+cases, as Kerala ranks as the second State in India with 2,023 cases in 2019, increasing  
+256 percent from 2009.154 The number of sexual harassment incidents on public buses 
+over the past couple of years is also significant and has increased from 309 in 2021 to 
+443 in 2022.155  
+ 
+3. GOK had developed a robust regulatory framework and adopted a number of 
+initiatives to bridge the gender gap in the State. In particular, in 2015, GOK  introduced 
+the “ Gender Equality and Women’s Empowerment Policy  for Kerala ”.156 The Kerala 
+Municipality Bill 2009 and Kerala Panchayati Raj Bill ",Information Technology,5
+45,45_2,"der gap in the State. In particular, in 2015, GOK  introduced 
+the “ Gender Equality and Women’s Empowerment Policy  for Kerala ”.156 The Kerala 
+Municipality Bill 2009 and Kerala Panchayati Raj Bill 2009, which set aside 50 percent 
+of seats for women in local governments, are significant steps toward strengthening the 
+political engagement of women.157 Several programs are also being conducted to 
+improve the security of women in public spaces, such as (i) Pink Police Patrols under 
+Kerala Police, (ii) Nirbhaya and Rakhsha app by Kerala Police,158 (iii) She 
+Taxis/Nirbhaya Autos, (iv) women drivers in KSRTC, and (v) GPS -enabled panic buttons 
+in public transport vehicles.  
+ 
+4. In India, PWD face substantial obstacles to utilize public transport. For example, 
+a survey  recently  conducted in  Hyderabad showed  that PWD face d numerous problems 
+in accessing bus and railway transport services .159 Similarly, a n independent 
+assessment on the disabled friendliness of transport faci",Procurement,10
+45,45_3,"cted in  Hyderabad showed  that PWD face d numerous problems 
+in accessing bus and railway transport services .159 Similarly, a n independent 
+assessment on the disabled friendliness of transport facilities in Ludhiana  (Punjab ) 
+conclude d that the transport facility was far from being satisfactory enough to be called 
+barrier -free. 160 With approximately 26.8 million PWD in India (and nearly 0.7 million 
+PWD in Kerala), the need for inclusive policies and infrastructure is pressing.161 GOI 
+enacted the Rights of PWD Act in 2016, which flags the need of easy accessibility to 
+transport services for PWD. Implementation efforts are evident through initiatives like 
+ 
+ 
+151 As per the provision of Article 79 of Indian Constitution, t he Lok Sabha is composed of representatives 
+of people chosen by direct election on the basis of Universal Adult Suffrage. The Constitution of India allows 
+for a maximum of 550 members in the House, with 530 members representing the States and 20 
+represe",Information Technology,8
+45,45_4,"hosen by direct election on the basis of Universal Adult Suffrage. The Constitution of India allows 
+for a maximum of 550 members in the House, with 530 members representing the States and 20 
+representi ng the Union Territories.  
+152 Ministry of Statistics and Programme Implementation; “Women and Men in India 2022” ; 24th Issue; ( link). 
+153 The Hindu; “ Over 4.45 Lakh Crimes Against Women in 2022, One Every 51 Minutes ”; 2023; ( link). 
+154 India Today; “ India’s 10 Most Dangerous States for Women ”; 2020; ( link). 
+155 The Times of India; “More women in Kerala report sexual harassment cases in buses” ; 2023; ( link). 
+156 Gita. G., Pooja. P.; International Journal of Creative Research and Thoughts (ICJRT); “Gender Equality 
+in an Unequal World – The Story of Kerala” ; Volume 9, Issue 12 December 2021 ; ISSN: 2320 -2882 ; (link). 
+157 The Times of India; “Kerala Gives 50% quota for women in panchayat”; 2009; ( link). 
+158 The Nirbhaya app enables users to communicate with law enfor",Information Technology,6
+45,45_5,"12 December 2021 ; ISSN: 2320 -2882 ; (link). 
+157 The Times of India; “Kerala Gives 50% quota for women in panchayat”; 2009; ( link). 
+158 The Nirbhaya app enables users to communicate with law enforcement authorities by sharing their 
+locations and sending messages even in the absence of internet connectivity.  Kerala Police's Raksha app 
+includes emergency contacts, email addresses, and contact information for all important police officers. 
+Based on the user's geolocation, the app can also locate the nearest police station and contact them.  
+159 Lakshmi A..Y, Sureshkumar K., Sandya A.P; “ Barriers In Accessing Public Transport Services for 
+Persons With Disabilities In Hyderabad, India ”; 3rd International Conference on Disability Inclusive 
+Development; 2019; ( link) 
+160 Sharma R, Sharma MK, Singh A.; “ Evaluation of Disable Friendliness of Road Transport Facility in 
+Ludhiana City of Punjab (India) ”; International Journal of Asian Social Science; 2015; ( link). 
+161 Department",Information Technology,8
+45,45_6,"harma MK, Singh A.; “ Evaluation of Disable Friendliness of Road Transport Facility in 
+Ludhiana City of Punjab (India) ”; International Journal of Asian Social Science; 2015; ( link). 
+161 Department of Empowerment of Persons with Disabilities (Divyangjan) under Ministry of Social Justice 
+and Empowerment, Government of India ( link).",Information Technology,4
+46,46_1,"41 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+the Barrier -Free Kerala Project, where funds have been allocated for creating disabled -
+friendly roads and barrier -free footpaths.162  
+ 
+B. GESI Practices in KMRL  
+ 
+5. Women play a very relevant role at KMRL, and work within all its divisions. Even 
+breaking stereotypes, they are outnumbering men in some traditionally considered 
+male -oriented teams, such as operation and maintenance, facility management, and 
+security.163  On average, nearly twice as many women as men are working at each 
+station of Phase I,164 and some of them are mostly operated by women (e.g., the Muttom 
+Station is entirely managed and run by female staff). KMRL has taken an unprecedented 
+approach by employing 509 EWS women and 16 transgender people from the 
+Kudumbashree Program165 (as of December 2023), mainly for housekeeping, security, 
+and ticketing in the stations of Phase I. Women representation at corporate level is 
+smaller, with ",Information Technology,7
+46,46_2,"people from the 
+Kudumbashree Program165 (as of December 2023), mainly for housekeeping, security, 
+and ticketing in the stations of Phase I. Women representation at corporate level is 
+smaller, with 17 percent of female officers at the KMRL’s corporate office. 166 However, 
+women staff are also taking part in KMRL’s decision -making process, as among the top 
+management cadre, one of the three functional directors and two out of ten general 
+managers/heads of departments are women. An internal committee at KMRL handles  
+workplace sexual harassment complaints and often holds staff training on women's 
+safety at the workplace.  
+ 
+6. Several gender -responsive aspects are also visible in the design of the current 
+trains and stations of Phase I. Dedicated seats are reserved for pregnant women and 
+individuals with special needs.  Child feeding cubicles, diaper change pods, and sanitary 
+napkin vending machines are available at selected stations. Security measures have 
+also been incorp",Information Technology,6
+46,46_3,"men and 
+individuals with special needs.  Child feeding cubicles, diaper change pods, and sanitary 
+napkin vending machines are available at selected stations. Security measures have 
+also been incorporated, such as the installation of CCTV cameras on both the trains and 
+the station platforms, emerg ency intercoms integrated with panic alarm buttons on the 
+trains, and a dedicated toll -free helpline. KMRL also conducts regular awareness 
+campaigns on women's safety, both within the metro and in the community to educate 
+women about their rights and how to protect themselves from violence.  
+ 
+C. GESI Strategy for Phase II  
+ 
+7. With above indicated initiatives, KMRL is being regarded as one of the 
+pioneering agencies in India, that is not only promoting the women participation in their 
+workforce, but also enhancing comfort and security for female metro users. Phase II will 
+not on ly mirror Phase I’s approach in terms of Gender Equality and Social Inclusion 
+(GESI), but it will al",Information Technology,11
+46,46_4," 
+workforce, but also enhancing comfort and security for female metro users. Phase II will 
+not on ly mirror Phase I’s approach in terms of Gender Equality and Social Inclusion 
+(GESI), but it will also include additional measures to contribute to bridge the GESI gaps 
+identified above. The incorporation of gender -specific considerations will be considere d 
+in four specific areas which are:  
+• Stakeholder Engagement . KMRL has demonstrated a consistent commitment to 
+promoting  gender equity by actively seeking feedback, especially from female 
+ 
+ 
+162 Office of Chief Commissioner for Persons with Disabilities (Divyangjan), Ministry of Social Justice 
+Department; “Annual Report 2021 -2022” ; (link). 
+163 These three divisions have 610 women and 557 men (as of December 2023).  
+164 To opera te the stations  of Phase I  (comprising station s control, facility management service s, and 
+security ), there are 295 men, 570 women, and  16 transgender staff  (as of December 2023 ). 
+165 Th",Information Technology,10
+46,46_5,"era te the stations  of Phase I  (comprising station s control, facility management service s, and 
+security ), there are 295 men, 570 women, and  16 transgender staff  (as of December 2023 ). 
+165 The GOK’s poverty eradication and women empowerment program. For further details, see this link. 
+166 At KMRL’s corporate office, there are 89 women staff and 437 men staff (as of December 2023).",Operations,3
+47,47_1,"42 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+metro users  not only during consultations to design the system, but also during 
+surveys conducted during operation . According to a recent survey , among 
+women users  of Phase I , approximately 88 percent express a heightened sense 
+of safety, security, and comfort when using the metro compared to other public 
+transport modes.167 For Phase II, stakeholder engagement, consultations and 
+feedback survey activities will be continued in a similar manner , with meaningful  
+participation of women with an objective to make the metro women -friendly and 
+secured transport mode.  
+• Project Engineering Design . Phase II will  provide comprehensive barrier -free 
+and gender -responsive features, including, among others, (a) a priority area for 
+women and passengers with special needs, (b) breastfeeding pods, (c) diaper 
+changing tables, (d) accessible, and clean toilet for people wi th different needs, 
+(e) vending machines",Information Technology,7
+47,47_2,"riority area for 
+women and passengers with special needs, (b) breastfeeding pods, (c) diaper 
+changing tables, (d) accessible, and clean toilet for people wi th different needs, 
+(e) vending machines with sanitary napkin, (f) CCTV cameras in every train and 
+station platform, (g) proper signages, (h) accessible ramps and lifts, (i) 
+passenger emergency communication system, and (j) emergency door release.  
+• Construction Phase . Though culturally women participation in construction work 
+is not very prominent in Kochi, however, KMRL will encourage the contractors 
+for inclusion of women in construction or construction supervision work. KMRL 
+will ensure the equal wage and conducive e nvironment for women.  
+• Operation Phase . KMRL intends to continue to collaborate with the 
+Kudumbashree  Program, by employing an additional 250 women staff and 10 
+transgender staff from the EWS category to provide facility management 
+services. KMRL's internal committee will continue its efforts in ",Information Technology,10
+47,47_3,"e  Program, by employing an additional 250 women staff and 10 
+transgender staff from the EWS category to provide facility management 
+services. KMRL's internal committee will continue its efforts in addressing sexual 
+harassment and engage with all staff to gu arantee women’s safety in their 
+respective workplaces.  
+ 
+8. Under Phase II, the following two indicators will be assessed to track the project's 
+contribution to GESI:  
+• Women passengers transported daily along the corridor of Phase II ( target: 
+31,106 ); and  
+• Stations constructed with barrier -free and gender -responsive features (target: 
+11). 
+ 
+ 
+167 Systra and Quadrant Conseil for KMRL and the Agence Française de Développement (AFD); “ Ex-post 
+Evaluation of Kochi Metro Project (Phase I) ”; November 18, 2021.",Information Technology,6
+48,48_1,"43 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 5: Paris Agreement Alignment Assessment168  
+BB1 Assessment  
+Criteria  Assessment  
+Uniform Assessment Criteria  (UC)  
+UC1: Checking if the 
+project/economic 
+activity included in the 
+‘universally aligned list’ 
+of activities that have a 
+positive or negligible 
+impact on the climate.  Electric urban mobility projects, such as Phase II of Kochi Metro 
+Rail, are considered universally aligned for BB1 as captured in 
+the Joint MDB Universally Aligned List.  
+Results  Aligned for BB1.  
+ 
+BB2 Assessment  
+Criteria  Assessment  
+Criterion  1: Establishment of Climate Risk and Vulnerability Context  
+Step 1: Establishing the 
+risk and vulnerability 
+context.  
+ The level of physical climate risk is considered medium. A 
+detailed climate risk assessment was conducted in the scope of 
+the EDD R. As noted in the EDDR, the project location is highly 
+exposed to recurring floods, and moderately exposed to 
+increased pre",Information Technology,10
+48,48_2," 
+detailed climate risk assessment was conducted in the scope of 
+the EDD R. As noted in the EDDR, the project location is highly 
+exposed to recurring floods, and moderately exposed to 
+increased precipitation, high temperature, increased wind 
+speed, and water unavailability. The increased precipitation in 
+the past few years, coup led with cyclonic storms, have led to 
+recurrent floods in the project location. An increase has also 
+been projected for mean annua l rainfall in both the near - and 
+mid-term when compared to the historical period. The 
+temperature projection indicates a potential increase of 1.3 -
+1.8°C.169 The climate risk assessment also suggests that the 
+project location is considered to have moderate exposure to 
+increased wind, and it might face future water stress.  
+Criterion  2: Definition of the Climate Adaptation and Resilience Measures  
+Step 2: Identifying and 
+integrating adaptation 
+and climate resilience 
+measures.  
+ Given that the physical climate risk",Project Management,8
+48,48_3,"
+Criterion  2: Definition of the Climate Adaptation and Resilience Measures  
+Step 2: Identifying and 
+integrating adaptation 
+and climate resilience 
+measures.  
+ Given that the physical climate risk is considered material 
+(medium), the following set of climate resilience measures have 
+been identified and will be factored into the DEDs : (i) using head -
+hardened (HH) 1080 steel grade (UIC60) for tracks as this has  
+superior mechanical properties with potential to resist thermal 
+stress; (ii) keeping sufficient open areas for unrestricted and 
+cross air circulation to minimize the high tempe rature effect on 
+passengers; (iii) constructing an elevated viaduct and stations, 
+which will be less vulnerable to urban floodings; (iv) providing 
+rain water harvesting, and cross slope or camber in the viaduct 
+superstructure design that permits runoffs to be channeled to 
+road side drain to reduce impact of potential waterlogging on 
+ 
+ 
+168 As above -mentioned, this assessment was conduct",Information Technology,5
+48,48_4,"r in the viaduct 
+superstructure design that permits runoffs to be channeled to 
+road side drain to reduce impact of potential waterlogging on 
+ 
+ 
+168 As above -mentioned, this assessment was conducted using the methodologies proposed in the (i) “ BB1 
+and BB2 Technical Note. Joint MDB Assessment Framework for Paris Alignment for Direct Investment 
+Operations ” (November 2021); and (ii) AIIB; “ Guidance Note on Assessing Financing Operations’ Alignment 
+with the Paris Agreement at AIIB. Version 1.0 ” (June 2023).  
+169 The summer maximum temperature increases are estimated by 1.4° C under the Representative 
+Concentration  Pathway  (RCP) 4.5 and 1.8° C under RCP 8.5 and the winter minimum temperature increases 
+by 1.3° C under RCP 4.5 and 1.8° C under RCP 8.5. Source: Directorate of Environment and Climate Change, 
+Department of Environment, GOK; “Kerala State Action Plan on Climate Change 2023 - 2030” ; 2022; ( link).",Information Technology,4
+49,49_1,"44 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+BB2 Assessment  
+Criteria  Assessment  
+viaduct from increased precipitation; (v) providing increased 
+height to the NMT infrastructure to facilitate the accessibility of 
+the metro’s users during flooding events; and (vi) considering an 
+extreme wind speed of 39 m/sec in the design to withstand 
+potential increased wind.    
+Criterion 3: Assessment of Inconsistency with a National/Broad Context for Climate 
+Resilience  
+Step 3: Assessing 
+potential inconsistency 
+with broader climate 
+resilience priorities.  
+ As indicated above , the project  is not inconsistent with India’s 
+broad context and policies for climate resilience, as outline d in 
+India’s NDC170, India’s Long -Term Low -Carbon Development 
+Strategy171, and the Kerala State Action Plan on Climate Change 
+(2023 – 2030) : 
+• NDC: The project is not inconsistent with the stated priorities 
+of NDC as it is a climate -friendly and clean intervention 
+because it",Information Technology,14
+49,49_2,"e Kerala State Action Plan on Climate Change 
+(2023 – 2030) : 
+• NDC: The project is not inconsistent with the stated priorities 
+of NDC as it is a climate -friendly and clean intervention 
+because it will contribute to reduce GHG emissions, air 
+pollution and noise in Kochi, in particular, along the JLN – 
+Smart City corridor.  
+• Long Term Low -Carbon Development Strategy:  One of 
+the priorities of this Strategy is promoting climate adaptation 
+in urban designs. This project is not inconsistent with that 
+strategy given that a number of climate adaptation 
+measures will be incorporated into the DEDs of this urban 
+intervention.  
+• Kerala State Action Plan on Climate Change (2023 - 
+2030):  One of the main priorities of this Plan is promoting a 
+shift from private to public transport. Hence, Phase II is not 
+inconsistent with this Plan as it will contribute to increase 
+public transport ridership and reduce private transport use.  
+Result  Aligned for BB2. 
+ 
+Project PAA  
+PAA Resul",Information Technology,10
+49,49_3,"ence, Phase II is not 
+inconsistent with this Plan as it will contribute to increase 
+public transport ridership and reduce private transport use.  
+Result  Aligned for BB2. 
+ 
+Project PAA  
+PAA Result  Aligned  
+ 
+  
+ 
+ 
+170 GOI; “ India’s Updated First Nationally Determined Contribution Under Paris Agreement (2021 -2030) 
+Submission to UNFCCC ”; August 2022,  (link). 
+171 Ministry of Environment, Forest and Climate Change Government of India ; “India’s Long -Term Low -
+Carbon Development Strategy” ; Submission to the United Nations Framework Convention on Climate 
+Change; 2022; ( link).",Information Technology,3
+50,50_1,"45 
+ 
+ *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  *OFFICIAL USE ONLY  
+Annex 6: Graphic of the Metro Network of Kochi  
+ 
+Source: KMRL",General,0

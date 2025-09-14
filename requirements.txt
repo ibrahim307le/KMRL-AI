@@ -1,0 +1,11 @@
+pdf2image
+pytesseract
+pillow
+PyPDF2
+transformers>=4.30.0
+datasets
+torch            
+scikit-learn
+reportlab
+tqdm
+python-dotenv
