@@ -1,0 +1,54 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# ------------------------
+# Hugging Face / Transformers
+# ------------------------
+*.bin
+*.safetensors
+*.pt
+*.h5
+*.ckpt
+cache/
+.huggingface/
+huggingface/
+transformers_cache/
+datasets_cache/
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+logs/
+wandb/
+mlruns/
+
+# ------------------------
+# Project Data / Outputs
+# ------------------------
+Data/
+outputs/
+
+# ------------------------
+# OS / Editor
+# ------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
